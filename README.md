@@ -4,7 +4,7 @@ Develop from September 2019 to January 2020 in Milan, Italy.
 
 ## About:
 
-This Python application allow you to train a model to predict if a flight would be delay, using a labeled .csv dataset containing flight and wheather data. The user can choose from 3 different algoriths to train the model: KNearest Neightbors, Naive Bayes and Gradient Boosting. The dataset to be used must contain the following information in this specific order: Flight destination (string), Airline (string), Expected departure time (Time, format 00:00), Temperature (int) Atmosferic preasure (int), Wind velocity (int), Wind direction (string), Visibility distance (string), Cloud type (string) and Cloud height (int). 
+This Python application allow you to train a model to predict if a flight would be delay, using a labeled .csv dataset containing flight and wheather data. The user can choose from 3 different algoriths to train the model: KNearest Neightbors, Gradient Boosting and Naive Bayes. The dataset to be used must contain the following information in this specific order: Flight destination (string), Airline (string), Expected departure time (Time, format 00:00), Temperature (int) Atmosferic preasure (int), Wind velocity (int), Wind direction (string), Visibility distance (string), Cloud type (string) and Cloud height (int). 
 
 The application also allows you to use the previusly created model to predict if a flight would be delayed or not based on an unlabeled dataset containing the same information. The application also has some example datasets "VuelosYTiempo.csv" and "VuelosYTiempoUnlabeled.csv" which contain the flight and wheather data from the Adolfo Suarez Madrid Barajas airpoty, in Spain. These datasets have been used to test the application, and mention that the labeled and unlabeled datasets contain compleatly different sets of data.
 
@@ -20,13 +20,13 @@ After knowing the best algorithms to implement I started with the Python code. I
 
 During the development of this project the following lenguages and tools were used:
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.pn"/> Python, 
-<img align="left" alt="Pandas" width="26px" src="https://es.m.wikipedia.org/wiki/Archivo:Pandas_logo.svg#/media/File%3APandas_mark.svg"/> Pandas, 
+<img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> Python, 
+<img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"/> Pandas, 
 <img align="left" alt="Scikit Learn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"/> Scikit Learn, 
 <img align="left" alt="Qt" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"/> Qt
 <img align="left" alt="Pentaho" width="26px" src="https://logodix.com/logo/1960244.png"/> Pentaho, 
-<img align="left" alt="Rapid Miner" width="26px" src="https://avatars0.githubusercontent.com/u/4490278?s=280&v=4"/> Rapid Miner, 
-<img align="left" alt="Open Refine" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenRefine_New_Logo.png"/> Open Refine
+<img align="left" alt="Open Refine" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenRefine_New_Logo.png"/> Open Refine, 
+<img align="left" alt="Rapid Miner" width="26px" src="https://avatars0.githubusercontent.com/u/4490278?s=280&v=4"/> Rapid Miner
 
 ## Images of the proyect:
 
