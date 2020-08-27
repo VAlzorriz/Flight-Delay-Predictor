@@ -34,13 +34,19 @@ Training section:
 
 <img align="left" alt="Training section" width="350" src="/img/Training1.png"/>
 
+<br>
+
 Training the model:
 
 <img align="left" alt="Training the model" width="350" src="/img/Training2.png"/>
 
+<br>
+
 Clasification section:
 
 <img align="left" alt="Clasification section" width="350" src="/img/Clasification1.png"/>
+
+<br>
 
 Final clasification:
 
