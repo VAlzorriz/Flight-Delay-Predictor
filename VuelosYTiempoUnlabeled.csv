@@ -1,0 +1,1581 @@
+destino,aerolinea,horaPrevista,horaSalida,temperatura,presion,velocidadViento,direccionViento,visibilidad,tipoNubosidad,alturaNubosidad
+Moscow,Aeroflot,00:10,00:06,13,1009,27,SO,10000,Parcialmente nublado,2134
+Moscow,Aeromexico,00:10,00:06,13,1009,27,SO,10000,Parcialmente nublado,2134
+Moscow,Aerolineas Argentinas,00:10,00:06,13,1009,27,SO,10000,Parcialmente nublado,2134
+Moscow,Air Europa,00:10,00:06,13,1009,27,SO,10000,Parcialmente nublado,2134
+Lima,LAN Peru,00:40,00:40,13,1010,29,SO,10000,Parcialmente nublado,1829
+Lima,Iberia,00:40,00:40,13,1010,29,SO,10000,Parcialmente nublado,1829
+Lima,LAN Airlines,00:40,00:40,13,1010,29,SO,10000,Parcialmente nublado,1829
+Quito,Plus Ultra,01:05,02:52,13,1010,25,SO,10000,Parcialmente nublado,1829
+Quito,Air Europa,01:35,02:42,13,1009,22,SO,10000,Mayormente nublado,610
+Porto,White,05:45,05:45,12,1010,13,SO,10000,Mayormente nublado,549
+Porto,Air India,05:45,05:45,12,1010,13,SO,10000,Mayormente nublado,549
+Porto,El Al,05:45,05:45,12,1010,13,SO,10000,Mayormente nublado,549
+Porto,TAP Portugal,05:45,05:45,12,1010,13,SO,10000,Mayormente nublado,549
+Amsterdam,KLM,06:00,05:57,12,1011,18,SO,10000,Mayormente nublado,610
+Amsterdam,China Airlines,06:00,05:57,12,1011,18,SO,10000,Mayormente nublado,610
+Amsterdam,Delta Air Lines,06:00,05:57,12,1011,18,SO,10000,Mayormente nublado,610
+Amsterdam,Etihad Airways,06:00,05:57,12,1011,18,SO,10000,Mayormente nublado,610
+Amsterdam,GOL Transportes Aeros,06:00,05:57,12,1011,18,SO,10000,Mayormente nublado,610
+Amsterdam,Kenya Airways,06:00,05:57,12,1011,18,SO,10000,Mayormente nublado,610
+Amsterdam,Xiamen Airlines,06:00,05:57,12,1011,18,SO,10000,Mayormente nublado,610
+Amsterdam,China Eastern Airlines,06:00,05:57,12,1011,18,SO,10000,Mayormente nublado,610
+Amsterdam,Ukraine Int. Airlines,06:00,05:57,12,1011,18,SO,10000,Mayormente nublado,610
+Kiev,Ryanair,06:10,06:17,12,1011,18,SO,10000,Mayormente nublado,610
+Frankfurt,Lufthansa,06:10,06:14,12,1011,18,SO,10000,Mayormente nublado,610
+Frankfurt,Air Canada,06:10,06:14,12,1011,18,SO,10000,Mayormente nublado,610
+Frankfurt,Austrian Airlines,06:10,06:14,12,1011,18,SO,10000,Mayormente nublado,610
+Frankfurt,Singapore Airlines,06:10,06:14,12,1011,18,SO,10000,Mayormente nublado,610
+Frankfurt,United Airlines,06:10,06:14,12,1011,18,SO,10000,Mayormente nublado,610
+Frankfurt,Oman Air,06:10,06:14,12,1011,18,SO,10000,Mayormente nublado,610
+Asturias,Wasaya Airways,06:15,06:16,12,1011,18,SO,10000,Mayormente nublado,610
+Asturias,Air Europa,06:15,06:16,12,1011,18,SO,10000,Mayormente nublado,610
+London,Ryanair,06:15,06:23,12,1011,18,SO,10000,Mayormente nublado,610
+Prague,Ryanair,06:15,06:20,12,1011,18,SO,10000,Mayormente nublado,610
+Berlin,Ryanair,06:20,06:25,12,1011,18,SO,10000,Mayormente nublado,610
+Seville,Wasaya Airways,06:20,06:28,12,1011,18,SO,10000,Mayormente nublado,610
+Seville,Aeromexico,06:20,06:28,12,1011,18,SO,10000,Mayormente nublado,610
+Seville,Air Europa,06:20,06:28,12,1011,18,SO,10000,Mayormente nublado,610
+Brussels,Brussels Airlines,06:25,06:22,12,1011,18,SO,10000,Mayormente nublado,610
+Brussels,Air Canada,06:25,06:22,12,1011,18,SO,10000,Mayormente nublado,610
+Brussels,Etihad Airways,06:25,06:22,12,1011,18,SO,10000,Mayormente nublado,610
+Brussels,Hainan Airlines,06:25,06:22,12,1011,18,SO,10000,Mayormente nublado,610
+Brussels,Lufthansa,06:25,06:22,12,1011,18,SO,10000,Mayormente nublado,610
+Brussels,United Airlines,06:25,06:22,12,1011,18,SO,10000,Mayormente nublado,610
+Athens,Ryanair,06:25,06:30,12,1011,18,SO,10000,Mayormente nublado,610
+Bilbao,Iberia,06:30,06:30,12,1011,11,SO,10000,Mayormente nublado,1067
+Barcelona,Vueling,06:30,06:31,12,1011,11,SO,10000,Mayormente nublado,1067
+Barcelona,Iberia,06:30,06:31,12,1011,11,SO,10000,Mayormente nublado,1067
+Paris,Air France,06:40,06:53,12,1011,11,SO,10000,Mayormente nublado,1067
+Paris,China Southern Airlines,06:40,06:53,12,1011,11,SO,10000,Mayormente nublado,1067
+Paris,Delta Air Lines,06:40,06:53,12,1011,11,SO,10000,Mayormente nublado,1067
+Paris,GOL Transportes Aeros,06:40,06:53,12,1011,11,SO,10000,Mayormente nublado,1067
+Paris,Atlasjet,06:40,06:53,12,1011,11,SO,10000,Mayormente nublado,1067
+Paris,Kenya Airways,06:40,06:53,12,1011,11,SO,10000,Mayormente nublado,1067
+Paris,Air Mauritius,06:40,06:53,12,1011,11,SO,10000,Mayormente nublado,1067
+Paris,China Eastern Airlines,06:40,06:53,12,1011,11,SO,10000,Mayormente nublado,1067
+Paris,Singapore Airlines,06:40,06:53,12,1011,11,SO,10000,Mayormente nublado,1067
+Paris,Air Europa,06:40,06:53,12,1011,11,SO,10000,Mayormente nublado,1067
+Paris,Vietnam Airlines,06:40,06:53,12,1011,11,SO,10000,Mayormente nublado,1067
+Alicante,Wasaya Airways,06:50,06:46,12,1011,11,SO,10000,Mayormente nublado,1067
+Alicante,Aeromexico,06:50,06:46,12,1011,11,SO,10000,Mayormente nublado,1067
+Alicante,Air Europa,06:50,06:46,12,1011,11,SO,10000,Mayormente nublado,1067
+Valencia,Wasaya Airways,06:50,06:56,12,1011,11,SO,10000,Mayormente nublado,1067
+Valencia,Aeromexico,06:50,06:56,12,1011,11,SO,10000,Mayormente nublado,1067
+Valencia,Air Europa,06:50,06:56,12,1011,11,SO,10000,Mayormente nublado,1067
+London,Iberia,06:50,07:05,12,1011,11,SO,10000,Mayormente nublado,1067
+London,American Airlines,06:50,07:05,12,1011,11,SO,10000,Mayormente nublado,1067
+London,British Airways,06:50,07:05,12,1011,11,SO,10000,Mayormente nublado,1067
+London,Japan Airlines,06:50,07:05,12,1011,11,SO,10000,Mayormente nublado,1067
+Las Palmas,Air Europa,07:00,07:06,11,1011,9,O,10000,Mayormente nublado,1067
+Las Palmas,Aeromexico,07:00,07:06,11,1011,9,O,10000,Mayormente nublado,1067
+Las Palmas,Aerolineas Argentinas,07:00,07:06,11,1011,9,O,10000,Mayormente nublado,1067
+Barcelona,Iberia,07:00,07:03,11,1011,9,O,10000,Mayormente nublado,1067
+Barcelona,Cathay Pacific,07:00,07:03,11,1011,9,O,10000,Mayormente nublado,1067
+Tenerife,Air Europa,07:05,07:03,11,1011,9,O,10000,Mayormente nublado,1067
+Tenerife,KLM,07:05,07:03,11,1011,9,O,10000,Mayormente nublado,1067
+Malaga,Wasaya Airways,07:05,07:04,11,1011,9,O,10000,Mayormente nublado,1067
+Malaga,Aeromexico,07:05,07:04,11,1011,9,O,10000,Mayormente nublado,1067
+Malaga,Air Europa,07:05,07:04,11,1011,9,O,10000,Mayormente nublado,1067
+Badajoz,Air Nostrum,07:05,07:19,11,1011,9,O,10000,Mayormente nublado,1067
+Badajoz,Iberia,07:05,07:19,11,1011,9,O,10000,Mayormente nublado,1067
+Ibiza,Ryanair,07:10,07:10,11,1011,9,O,10000,Mayormente nublado,1067
+Jerez,Air Nostrum,07:10,07:14,11,1011,9,O,10000,Mayormente nublado,1067
+Jerez,American Airlines,07:10,07:14,11,1011,9,O,10000,Mayormente nublado,1067
+Jerez,Iberia,07:10,07:14,11,1011,9,O,10000,Mayormente nublado,1067
+Bordeaux,Air Nostrum,07:15,07:15,11,1011,9,O,10000,Mayormente nublado,1067
+Bordeaux,American Airlines,07:15,07:15,11,1011,9,O,10000,Mayormente nublado,1067
+Bordeaux,Iberia,07:15,07:15,11,1011,9,O,10000,Mayormente nublado,1067
+Amsterdam,Air Europa,07:15,07:20,11,1011,9,O,10000,Mayormente nublado,1067
+Amsterdam,Aeromexico,07:15,07:20,11,1011,9,O,10000,Mayormente nublado,1067
+Amsterdam,China Airlines,07:15,07:20,11,1011,9,O,10000,Mayormente nublado,1067
+Amsterdam,Delta Air Lines,07:15,07:20,11,1011,9,O,10000,Mayormente nublado,1067
+Amsterdam,Garuda Indonesia,07:15,07:20,11,1011,9,O,10000,Mayormente nublado,1067
+Amsterdam,KLM,07:15,07:20,11,1011,9,O,10000,Mayormente nublado,1067
+Amsterdam,Xiamen Airlines,07:15,07:20,11,1011,9,O,10000,Mayormente nublado,1067
+Paris,Air Europa,07:15,07:24,11,1011,9,O,10000,Mayormente nublado,1067
+Paris,Air France,07:15,07:24,11,1011,9,O,10000,Mayormente nublado,1067
+Paris,Aeromexico,07:15,07:24,11,1011,9,O,10000,Mayormente nublado,1067
+Paris,Delta Air Lines,07:15,07:24,11,1011,9,O,10000,Mayormente nublado,1067
+Paris,China Eastern Airlines,07:15,07:24,11,1011,9,O,10000,Mayormente nublado,1067
+Palma de Mallorca,Iberia Express,07:20,07:18,11,1011,9,O,10000,Mayormente nublado,1067
+Palma de Mallorca,American Airlines,07:20,07:18,11,1011,9,O,10000,Mayormente nublado,1067
+Palma de Mallorca,Iberia,07:20,07:18,11,1011,9,O,10000,Mayormente nublado,1067
+Toulouse,Air Nostrum,07:20,07:15,11,1011,9,O,10000,Mayormente nublado,1067
+Toulouse,Iberia,07:20,07:15,11,1011,9,O,10000,Mayormente nublado,1067
+A Coruna,Iberia,07:25,07:25,11,1011,9,O,10000,Mayormente nublado,1067
+A Coruna,American Airlines,07:25,07:25,11,1011,9,O,10000,Mayormente nublado,1067
+Malaga,Iberia Express,07:25,07:25,11,1011,9,O,10000,Mayormente nublado,1067
+Malaga,American Airlines,07:25,07:25,11,1011,9,O,10000,Mayormente nublado,1067
+Malaga,Iberia,07:25,07:25,11,1011,9,O,10000,Mayormente nublado,1067
+Santiago,Iberia Express,07:25,07:24,11,1011,9,O,10000,Mayormente nublado,1067
+Santiago,American Airlines,07:25,07:24,11,1011,9,O,10000,Mayormente nublado,1067
+Santiago,Iberia,07:25,07:24,11,1011,9,O,10000,Mayormente nublado,1067
+Lisbon,Iberia,07:25,07:22,11,1011,9,O,10000,Mayormente nublado,1067
+Lisbon,American Airlines,07:25,07:22,11,1011,9,O,10000,Mayormente nublado,1067
+Lisbon,LAN Airlines,07:25,07:22,11,1011,9,O,10000,Mayormente nublado,1067
+Lisbon,Qatar Airways,07:25,07:22,11,1011,9,O,10000,Mayormente nublado,1067
+Vigo,Iberia,07:25,07:21,11,1011,9,O,10000,Mayormente nublado,1067
+Vigo,American Airlines,07:25,07:21,11,1011,9,O,10000,Mayormente nublado,1067
+Vigo,Avianca,07:25,07:21,11,1011,9,O,10000,Mayormente nublado,1067
+Munich,Lufthansa,07:25,07:26,11,1011,9,O,10000,Mayormente nublado,1067
+Munich,Air Canada,07:25,07:26,11,1011,9,O,10000,Mayormente nublado,1067
+Munich,Air China,07:25,07:26,11,1011,9,O,10000,Mayormente nublado,1067
+Munich,Austrian Airlines,07:25,07:26,11,1011,9,O,10000,Mayormente nublado,1067
+Munich,SAS,07:25,07:26,11,1011,9,O,10000,Mayormente nublado,1067
+Munich,Singapore Airlines,07:25,07:26,11,1011,9,O,10000,Mayormente nublado,1067
+Las Palmas,Iberia Express,07:25,07:28,11,1011,9,O,10000,Mayormente nublado,1067
+Las Palmas,Iberia,07:25,07:28,11,1011,9,O,10000,Mayormente nublado,1067
+Lisbon,TAP Express,07:25,07:29,11,1011,9,O,10000,Mayormente nublado,1067
+Lisbon,Azul Brazilian Airlines,07:25,07:29,11,1011,9,O,10000,Mayormente nublado,1067
+Lisbon,Capital Airlines,07:25,07:29,11,1011,9,O,10000,Mayormente nublado,1067
+Lisbon,Azores Airlines,07:25,07:29,11,1011,9,O,10000,Mayormente nublado,1067
+Lisbon,United Airlines,07:25,07:29,11,1011,9,O,10000,Mayormente nublado,1067
+Lisbon,TAP Portugal,07:25,07:29,11,1011,9,O,10000,Mayormente nublado,1067
+London,EasyJet,07:30,07:29,11,1011,5,O,10000,Parcialmente nublado,1067
+Barcelona,Iberia,07:30,07:28,11,1011,5,O,10000,Parcialmente nublado,1067
+Barcelona,Avianca,07:30,07:28,11,1011,5,O,10000,Parcialmente nublado,1067
+Barcelona,Cathay Pacific,07:30,07:28,11,1011,5,O,10000,Parcialmente nublado,1067
+Milan,Air Europa,07:30,07:32,11,1011,5,O,10000,Parcialmente nublado,1067
+Milan,Aeromexico,07:30,07:32,11,1011,5,O,10000,Parcialmente nublado,1067
+Milan,Alitalia,07:30,07:32,11,1011,5,O,10000,Parcialmente nublado,1067
+Milan,MEA,07:30,07:32,11,1011,5,O,10000,Parcialmente nublado,1067
+Barcelona,Air Europa,07:30,07:40,11,1011,5,O,10000,Parcialmente nublado,1067
+Barcelona,Aeromexico,07:30,07:40,11,1011,5,O,10000,Parcialmente nublado,1067
+Barcelona,Aerolineas Argentinas,07:30,07:40,11,1011,5,O,10000,Parcialmente nublado,1067
+Barcelona,Delta Air Lines,07:30,07:40,11,1011,5,O,10000,Parcialmente nublado,1067
+Barcelona,Ethiopian Airlines,07:30,07:40,11,1011,5,O,10000,Parcialmente nublado,1067
+Barcelona,China Eastern Airlines,07:30,07:40,11,1011,5,O,10000,Parcialmente nublado,1067
+Barcelona,Aeroflot,07:30,07:40,11,1011,5,O,10000,Parcialmente nublado,1067
+Seville,Iberia Express,07:35,07:29,11,1011,5,O,10000,Parcialmente nublado,1067
+Seville,American Airlines,07:35,07:29,11,1011,5,O,10000,Parcialmente nublado,1067
+Seville,Avianca,07:35,07:29,11,1011,5,O,10000,Parcialmente nublado,1067
+Seville,Iberia,07:35,07:29,11,1011,5,O,10000,Parcialmente nublado,1067
+Asturias,Iberia,07:35,07:34,11,1011,5,O,10000,Parcialmente nublado,1067
+Asturias,American Airlines,07:35,07:34,11,1011,5,O,10000,Parcialmente nublado,1067
+Asturias,Avianca,07:35,07:34,11,1011,5,O,10000,Parcialmente nublado,1067
+Porto,Iberia,07:35,07:30,11,1011,5,O,10000,Parcialmente nublado,1067
+Porto,American Airlines,07:35,07:30,11,1011,5,O,10000,Parcialmente nublado,1067
+Bilbao,Iberia,07:40,07:40,11,1011,5,O,10000,Parcialmente nublado,1067
+Bilbao,American Airlines,07:40,07:40,11,1011,5,O,10000,Parcialmente nublado,1067
+Bilbao,Avianca,07:40,07:40,11,1011,5,O,10000,Parcialmente nublado,1067
+Bilbao,LAN Airlines,07:40,07:40,11,1011,5,O,10000,Parcialmente nublado,1067
+Tenerife,Iberia Express,07:40,07:40,11,1011,5,O,10000,Parcialmente nublado,1067
+Tenerife,Iberia,07:40,07:40,11,1011,5,O,10000,Parcialmente nublado,1067
+Paris,Iberia,07:40,07:43,11,1011,5,O,10000,Parcialmente nublado,1067
+Paris,American Airlines,07:40,07:43,11,1011,5,O,10000,Parcialmente nublado,1067
+Paris,Avianca,07:40,07:43,11,1011,5,O,10000,Parcialmente nublado,1067
+Santander,Iberia,07:40,07:41,11,1011,5,O,10000,Parcialmente nublado,1067
+Santander,American Airlines,07:40,07:41,11,1011,5,O,10000,Parcialmente nublado,1067
+Alicante,Air Nostrum,07:45,07:55,11,1011,5,O,10000,Parcialmente nublado,1067
+Alicante,American Airlines,07:45,07:55,11,1011,5,O,10000,Parcialmente nublado,1067
+Alicante,Avianca,07:45,07:55,11,1011,5,O,10000,Parcialmente nublado,1067
+Alicante,LAN Airlines,07:45,07:55,11,1011,5,O,10000,Parcialmente nublado,1067
+Alicante,Iberia,07:45,07:55,11,1011,5,O,10000,Parcialmente nublado,1067
+Barcelona,Vueling,07:45,08:58,11,1011,5,O,10000,Parcialmente nublado,1067
+Barcelona,Iberia,07:45,08:58,11,1011,5,O,10000,Parcialmente nublado,1067
+Barcelona,LAN Airlines,07:45,08:58,11,1011,5,O,10000,Parcialmente nublado,1067
+London,Air Europa,07:50,07:45,11,1011,5,O,10000,Parcialmente nublado,1067
+London,Aeromexico,07:50,07:45,11,1011,5,O,10000,Parcialmente nublado,1067
+London,Aerolineas Argentinas,07:50,07:45,11,1011,5,O,10000,Parcialmente nublado,1067
+San Sebastian,Air Nostrum,07:55,08:00,11,1011,5,O,10000,Parcialmente nublado,1067
+San Sebastian,American Airlines,07:55,08:00,11,1011,5,O,10000,Parcialmente nublado,1067
+San Sebastian,Avianca,07:55,08:00,11,1011,5,O,10000,Parcialmente nublado,1067
+San Sebastian,LAN Airlines,07:55,08:00,11,1011,5,O,10000,Parcialmente nublado,1067
+San Sebastian,Qatar Airways,07:55,08:00,11,1011,5,O,10000,Parcialmente nublado,1067
+San Sebastian,Iberia,07:55,08:00,11,1011,5,O,10000,Parcialmente nublado,1067
+Tenerife,Norwegian Air International,08:00,07:56,11,1012,13,O,10000,Parcialmente nublado,914
+Valencia,Air Nostrum,08:00,08:01,11,1012,13,O,10000,Parcialmente nublado,914
+Valencia,American Airlines,08:00,08:01,11,1012,13,O,10000,Parcialmente nublado,914
+Valencia,Avianca,08:00,08:01,11,1012,13,O,10000,Parcialmente nublado,914
+Valencia,Qatar Airways,08:00,08:01,11,1012,13,O,10000,Parcialmente nublado,914
+Valencia,Iberia,08:00,08:01,11,1012,13,O,10000,Parcialmente nublado,914
+Barcelona,Iberia,08:00,08:02,11,1012,13,O,10000,Parcialmente nublado,914
+Barcelona,American Airlines,08:00,08:02,11,1012,13,O,10000,Parcialmente nublado,914
+Barcelona,Avianca,08:00,08:02,11,1012,13,O,10000,Parcialmente nublado,914
+Barcelona,Cathay Pacific,08:00,08:02,11,1012,13,O,10000,Parcialmente nublado,914
+Bogota,Avianca,08:05,08:05,11,1012,13,O,10000,Parcialmente nublado,914
+Bogota,Air China,08:05,08:05,11,1012,13,O,10000,Parcialmente nublado,914
+Bogota,Turkish Airlines,08:05,08:05,11,1012,13,O,10000,Parcialmente nublado,914
+Frankfurt,Lufthansa,08:10,08:14,11,1012,13,O,10000,Parcialmente nublado,914
+Frankfurt,Air Canada,08:10,08:14,11,1012,13,O,10000,Parcialmente nublado,914
+Frankfurt,Avianca,08:10,08:14,11,1012,13,O,10000,Parcialmente nublado,914
+Frankfurt,Air China,08:10,08:14,11,1012,13,O,10000,Parcialmente nublado,914
+Frankfurt,Austrian Airlines,08:10,08:14,11,1012,13,O,10000,Parcialmente nublado,914
+Frankfurt,SAS,08:10,08:14,11,1012,13,O,10000,Parcialmente nublado,914
+Frankfurt,United Airlines,08:10,08:14,11,1012,13,O,10000,Parcialmente nublado,914
+Granada,Air Nostrum,08:10,08:21,11,1012,13,O,10000,Parcialmente nublado,914
+Granada,American Airlines,08:10,08:21,11,1012,13,O,10000,Parcialmente nublado,914
+Granada,LAN Airlines,08:10,08:21,11,1012,13,O,10000,Parcialmente nublado,914
+Granada,Qatar Airways,08:10,08:21,11,1012,13,O,10000,Parcialmente nublado,914
+Granada,Iberia,08:10,08:21,11,1012,13,O,10000,Parcialmente nublado,914
+Pamplona,Air Nostrum,08:15,08:12,11,1012,13,O,10000,Parcialmente nublado,914
+Pamplona,American Airlines,08:15,08:12,11,1012,13,O,10000,Parcialmente nublado,914
+Pamplona,Avianca,08:15,08:12,11,1012,13,O,10000,Parcialmente nublado,914
+Pamplona,LAN Airlines,08:15,08:12,11,1012,13,O,10000,Parcialmente nublado,914
+Pamplona,Qatar Airways,08:15,08:12,11,1012,13,O,10000,Parcialmente nublado,914
+Pamplona,Iberia,08:15,08:12,11,1012,13,O,10000,Parcialmente nublado,914
+London,Iberia,08:15,08:18,11,1012,13,O,10000,Parcialmente nublado,914
+London,American Airlines,08:15,08:18,11,1012,13,O,10000,Parcialmente nublado,914
+London,British Airways,08:15,08:18,11,1012,13,O,10000,Parcialmente nublado,914
+London,LAN Airlines,08:15,08:18,11,1012,13,O,10000,Parcialmente nublado,914
+Doha,Qatar Airways,08:20,08:38,11,1012,13,O,10000,Parcialmente nublado,914
+Doha,Iberia,08:20,08:38,11,1012,13,O,10000,Parcialmente nublado,914
+Barcelona,Iberia,08:30,09:45,11,1012,16,SO,10000,Mayormente despejado,914
+Barcelona,Avianca,08:30,09:45,11,1012,16,SO,10000,Mayormente despejado,914
+Barcelona,Cathay Pacific,08:30,09:45,11,1012,16,SO,10000,Mayormente despejado,914
+Palma de Mallorca,Iberia Express,08:35,08:37,11,1012,16,SO,10000,Mayormente despejado,914
+Palma de Mallorca,Iberia,08:35,08:37,11,1012,16,SO,10000,Mayormente despejado,914
+Rome,Iberia,08:40,08:36,11,1012,16,SO,10000,Mayormente despejado,914
+Rome,American Airlines,08:40,08:36,11,1012,16,SO,10000,Mayormente despejado,914
+Rome,Meridiana,08:40,08:36,11,1012,16,SO,10000,Mayormente despejado,914
+Rome,LAN Airlines,08:40,08:36,11,1012,16,SO,10000,Mayormente despejado,914
+Berlin,Iberia Express,08:40,08:40,11,1012,16,SO,10000,Mayormente despejado,914
+Berlin,American Airlines,08:40,08:40,11,1012,16,SO,10000,Mayormente despejado,914
+Berlin,Iberia,08:40,08:40,11,1012,16,SO,10000,Mayormente despejado,914
+Tenerife,Iberia Express,08:40,08:40,11,1012,16,SO,10000,Mayormente despejado,914
+Tenerife,Iberia,08:40,08:40,11,1012,16,SO,10000,Mayormente despejado,914
+Las Palmas,Iberia Express,08:40,08:37,11,1012,16,SO,10000,Mayormente despejado,914
+Las Palmas,American Airlines,08:40,08:37,11,1012,16,SO,10000,Mayormente despejado,914
+Las Palmas,Iberia,08:40,08:37,11,1012,16,SO,10000,Mayormente despejado,914
+Las Palmas,Binter Canarias,08:40,08:37,11,1012,16,SO,10000,Mayormente despejado,914
+Palma de Mallorca,Ryanair,08:40,08:50,11,1012,16,SO,10000,Mayormente despejado,914
+Dusseldorf,Iberia,08:40,08:51,11,1012,16,SO,10000,Mayormente despejado,914
+Dusseldorf,American Airlines,08:40,08:51,11,1012,16,SO,10000,Mayormente despejado,914
+Dusseldorf,Air Baltic,08:40,08:51,11,1012,16,SO,10000,Mayormente despejado,914
+Vienna,Iberia,08:40,08:48,11,1012,16,SO,10000,Mayormente despejado,914
+Vienna,American Airlines,08:40,08:48,11,1012,16,SO,10000,Mayormente despejado,914
+Lyon,Iberia Express,08:45,08:45,11,1012,16,SO,10000,Mayormente despejado,914
+Lyon,Iberia,08:45,08:45,11,1012,16,SO,10000,Mayormente despejado,914
+Frankfurt,Air Nostrum,08:45,08:45,11,1012,16,SO,10000,Mayormente despejado,914
+Frankfurt,American Airlines,08:45,08:45,11,1012,16,SO,10000,Mayormente despejado,914
+Frankfurt,Air Baltic,08:45,08:45,11,1012,16,SO,10000,Mayormente despejado,914
+Frankfurt,Iberia,08:45,08:45,11,1012,16,SO,10000,Mayormente despejado,914
+Munich,Iberia,08:45,08:43,11,1012,16,SO,10000,Mayormente despejado,914
+Munich,American Airlines,08:45,08:43,11,1012,16,SO,10000,Mayormente despejado,914
+Munich,Air Baltic,08:45,08:43,11,1012,16,SO,10000,Mayormente despejado,914
+Brussels,Iberia,08:45,08:49,11,1012,16,SO,10000,Mayormente despejado,914
+Brussels,American Airlines,08:45,08:49,11,1012,16,SO,10000,Mayormente despejado,914
+Brussels,Finnair,08:45,08:49,11,1012,16,SO,10000,Mayormente despejado,914
+Brussels,Air Baltic,08:45,08:49,11,1012,16,SO,10000,Mayormente despejado,914
+Brussels,LAN Airlines,08:45,08:49,11,1012,16,SO,10000,Mayormente despejado,914
+A Coruna,Air Nostrum,08:50,08:38,11,1012,16,SO,10000,Mayormente despejado,914
+A Coruna,American Airlines,08:50,08:38,11,1012,16,SO,10000,Mayormente despejado,914
+A Coruna,Qatar Airways,08:50,08:38,11,1012,16,SO,10000,Mayormente despejado,914
+A Coruna,Iberia,08:50,08:38,11,1012,16,SO,10000,Mayormente despejado,914
+Naples,Iberia Express,08:50,08:49,11,1012,16,SO,10000,Mayormente despejado,914
+Naples,Iberia,08:50,08:49,11,1012,16,SO,10000,Mayormente despejado,914
+Zurich,Iberia,08:50,08:50,11,1012,16,SO,10000,Mayormente despejado,914
+Zurich,American Airlines,08:50,08:50,11,1012,16,SO,10000,Mayormente despejado,914
+Milan,Iberia,08:50,08:58,11,1012,16,SO,10000,Mayormente despejado,914
+Milan,American Airlines,08:50,08:58,11,1012,16,SO,10000,Mayormente despejado,914
+Milan,Meridiana,08:50,08:58,11,1012,16,SO,10000,Mayormente despejado,914
+London,Iberia Express,08:50,08:53,11,1012,16,SO,10000,Mayormente despejado,914
+London,British Airways,08:50,08:53,11,1012,16,SO,10000,Mayormente despejado,914
+London,Iberia,08:50,08:53,11,1012,16,SO,10000,Mayormente despejado,914
+Hamburg,Iberia,08:50,08:58,11,1012,16,SO,10000,Mayormente despejado,914
+London,Iberia,09:00,09:00,11,1012,16,SO,10000,Mayormente despejado,914
+London,American Airlines,09:00,09:00,11,1012,16,SO,10000,Mayormente despejado,914
+London,British Airways,09:00,09:00,11,1012,16,SO,10000,Mayormente despejado,914
+London,Japan Airlines,09:00,09:00,11,1012,16,SO,10000,Mayormente despejado,914
+Santiago,Ryanair,09:00,08:56,11,1012,16,SO,10000,Mayormente despejado,914
+Turin,Air Nostrum,09:05,09:00,11,1012,16,SO,10000,Mayormente despejado,914
+Turin,American Airlines,09:05,09:00,11,1012,16,SO,10000,Mayormente despejado,914
+Turin,LAN Airlines,09:05,09:00,11,1012,16,SO,10000,Mayormente despejado,914
+Turin,Iberia,09:05,09:00,11,1012,16,SO,10000,Mayormente despejado,914
+Barcelona,Vueling,09:05,09:10,11,1012,16,SO,10000,Mayormente despejado,914
+Barcelona,Iberia,09:05,09:10,11,1012,16,SO,10000,Mayormente despejado,914
+Tel Aviv,Air Europa,09:05,09:14,11,1012,16,SO,10000,Mayormente despejado,914
+Almeria,Air Nostrum,09:10,09:17,11,1012,16,SO,10000,Mayormente despejado,914
+Almeria,American Airlines,09:10,09:17,11,1012,16,SO,10000,Mayormente despejado,914
+Almeria,Qatar Airways,09:10,09:17,11,1012,16,SO,10000,Mayormente despejado,914
+Almeria,Iberia,09:10,09:17,11,1012,16,SO,10000,Mayormente despejado,914
+Venice,Iberia,09:20,09:20,11,1012,16,SO,10000,Mayormente despejado,914
+Venice,American Airlines,09:20,09:20,11,1012,16,SO,10000,Mayormente despejado,914
+Florence,Iberia,09:20,09:18,11,1012,16,SO,10000,Mayormente despejado,914
+Porto,Ryanair,09:20,09:16,11,1012,16,SO,10000,Mayormente despejado,914
+Marseille,Air Nostrum,09:20,09:10,11,1012,16,SO,10000,Mayormente despejado,914
+Marseille,American Airlines,09:20,09:10,11,1012,16,SO,10000,Mayormente despejado,914
+Marseille,Iberia,09:20,09:10,11,1012,16,SO,10000,Mayormente despejado,914
+Paris,Iberia,09:25,09:25,11,1012,16,SO,10000,Mayormente despejado,914
+Paris,American Airlines,09:25,09:25,11,1012,16,SO,10000,Mayormente despejado,914
+Bologna,Air Nostrum,09:25,09:35,11,1012,16,SO,10000,Mayormente despejado,914
+Bologna,American Airlines,09:25,09:35,11,1012,16,SO,10000,Mayormente despejado,914
+Bologna,LAN Airlines,09:25,09:35,11,1012,16,SO,10000,Mayormente despejado,914
+Bologna,Iberia,09:25,09:35,11,1012,16,SO,10000,Mayormente despejado,914
+San Sebastian,Air Nostrum,09:30,09:40,11,1013,20,SO,10000,Parcialmente nublado,366
+San Sebastian,American Airlines,09:30,09:40,11,1013,20,SO,10000,Parcialmente nublado,366
+San Sebastian,Avianca,09:30,09:40,11,1013,20,SO,10000,Parcialmente nublado,366
+San Sebastian,British Airways,09:30,09:40,11,1013,20,SO,10000,Parcialmente nublado,366
+San Sebastian,Qatar Airways,09:30,09:40,11,1013,20,SO,10000,Parcialmente nublado,366
+San Sebastian,Iberia,09:30,09:40,11,1013,20,SO,10000,Parcialmente nublado,366
+Barcelona,Iberia,09:30,09:33,11,1013,20,SO,10000,Parcialmente nublado,366
+Barcelona,American Airlines,09:30,09:33,11,1013,20,SO,10000,Parcialmente nublado,366
+Barcelona,Avianca,09:30,09:33,11,1013,20,SO,10000,Parcialmente nublado,366
+Nice,Air Nostrum,09:35,09:32,11,1013,20,SO,10000,Parcialmente nublado,366
+Nice,American Airlines,09:35,09:32,11,1013,20,SO,10000,Parcialmente nublado,366
+Nice,Iberia,09:35,09:32,11,1013,20,SO,10000,Parcialmente nublado,366
+Milan,Malta Air,09:45,10:05,11,1013,20,SO,10000,Parcialmente nublado,366
+Milan,Ryanair,09:45,10:05,11,1013,20,SO,10000,Parcialmente nublado,366
+Barcelona,Vueling,09:45,10:08,11,1013,20,SO,10000,Parcialmente nublado,366
+Barcelona,Iberia,09:45,10:08,11,1013,20,SO,10000,Parcialmente nublado,366
+Vienna,Wizz Air,09:45,10:31,11,1013,20,SO,10000,Parcialmente nublado,366
+Abu Dhabi,Etihad Airways,09:45,09:53,11,1013,20,SO,10000,Parcialmente nublado,366
+Abu Dhabi,Aerolineas Argentinas,09:45,09:53,11,1013,20,SO,10000,Parcialmente nublado,366
+Abu Dhabi,Avianca,09:45,09:53,11,1013,20,SO,10000,Parcialmente nublado,366
+Abu Dhabi,Hong Kong Airlines,09:45,09:53,11,1013,20,SO,10000,Parcialmente nublado,366
+Abu Dhabi,Malaysia Airlines,09:45,09:53,11,1013,20,SO,10000,Parcialmente nublado,366
+Abu Dhabi,Pakistan International Airlines,09:45,09:53,11,1013,20,SO,10000,Parcialmente nublado,366
+Abu Dhabi,SriLankan Airlines,09:45,09:53,11,1013,20,SO,10000,Parcialmente nublado,366
+Abu Dhabi,Air Europa,09:45,09:53,11,1013,20,SO,10000,Parcialmente nublado,366
+Abu Dhabi,Virgin Australia,09:45,09:53,11,1013,20,SO,10000,Parcialmente nublado,366
+Abu Dhabi,Flynas,09:45,09:53,11,1013,20,SO,10000,Parcialmente nublado,366
+Geneva,Iberia,09:50,09:45,11,1013,20,SO,10000,Parcialmente nublado,366
+Geneva,American Airlines,09:50,09:45,11,1013,20,SO,10000,Parcialmente nublado,366
+Cluj-Napoca,Wizz Air,09:50,10:06,11,1013,20,SO,10000,Parcialmente nublado,366
+Paris,Air France,09:55,09:58,11,1013,20,SO,10000,Parcialmente nublado,366
+Paris,Aerolineas Argentinas,09:55,09:58,11,1013,20,SO,10000,Parcialmente nublado,366
+Paris,Flybe,09:55,09:58,11,1013,20,SO,10000,Parcialmente nublado,366
+Paris,Delta Air Lines,09:55,09:58,11,1013,20,SO,10000,Parcialmente nublado,366
+Paris,Korean Air,09:55,09:58,11,1013,20,SO,10000,Parcialmente nublado,366
+Paris,Atlasjet,09:55,09:58,11,1013,20,SO,10000,Parcialmente nublado,366
+Paris,Air Mauritius,09:55,09:58,11,1013,20,SO,10000,Parcialmente nublado,366
+Paris,Air Europa,09:55,09:58,11,1013,20,SO,10000,Parcialmente nublado,366
+Miami,American Airlines,10:00,09:55,11,1013,20,SO,10000,Parcialmente nublado,366
+Miami,Finnair,10:00,09:55,11,1013,20,SO,10000,Parcialmente nublado,366
+Miami,British Airways,10:00,09:55,11,1013,20,SO,10000,Parcialmente nublado,366
+Miami,Iberia,10:00,09:55,11,1013,20,SO,10000,Parcialmente nublado,366
+Miami,El Al,10:00,09:55,11,1013,20,SO,10000,Parcialmente nublado,366
+Paris,Transavia France,10:00,09:55,11,1013,20,SO,10000,Parcialmente nublado,366
+Basel,Air Nostrum,10:05,10:05,11,1013,20,SO,10000,Parcialmente nublado,366
+Basel,LAN Airlines,10:05,10:05,11,1013,20,SO,10000,Parcialmente nublado,366
+Basel,Iberia,10:05,10:05,11,1013,20,SO,10000,Parcialmente nublado,366
+Seville,Wasaya Airways,10:05,10:11,11,1013,20,SO,10000,Parcialmente nublado,366
+Seville,Air Europa,10:05,10:11,11,1013,20,SO,10000,Parcialmente nublado,366
+Lisbon,TAP Portugal,10:05,10:15,11,1013,20,SO,10000,Parcialmente nublado,366
+Lisbon,Azul Brazilian Airlines,10:05,10:15,11,1013,20,SO,10000,Parcialmente nublado,366
+Lisbon,Air China,10:05,10:15,11,1013,20,SO,10000,Parcialmente nublado,366
+Lisbon,Ethiopian Airlines,10:05,10:15,11,1013,20,SO,10000,Parcialmente nublado,366
+Lisbon,Etihad Airways,10:05,10:15,11,1013,20,SO,10000,Parcialmente nublado,366
+Lisbon,Capital Airlines,10:05,10:15,11,1013,20,SO,10000,Parcialmente nublado,366
+Lisbon,Azores Airlines,10:05,10:15,11,1013,20,SO,10000,Parcialmente nublado,366
+Lisbon,United Airlines,10:05,10:15,11,1013,20,SO,10000,Parcialmente nublado,366
+Vienna,Lauda,10:05,10:28,11,1013,20,SO,10000,Parcialmente nublado,366
+Stockholm,Iberia,10:05,10:08,11,1013,20,SO,10000,Parcialmente nublado,366
+Stockholm,American Airlines,10:05,10:08,11,1013,20,SO,10000,Parcialmente nublado,366
+Stockholm,Finnair,10:05,10:08,11,1013,20,SO,10000,Parcialmente nublado,366
+Marrakesh,Iberia,10:10,10:07,11,1013,20,SO,10000,Parcialmente nublado,366
+Marrakesh,American Airlines,10:10,10:07,11,1013,20,SO,10000,Parcialmente nublado,366
+A Coruna,Air Europa,10:15,10:11,11,1013,20,SO,10000,Parcialmente nublado,366
+A Coruna,Air France,10:15,10:11,11,1013,20,SO,10000,Parcialmente nublado,366
+A Coruna,Aeromexico,10:15,10:11,11,1013,20,SO,10000,Parcialmente nublado,366
+A Coruna,Aerolineas Argentinas,10:15,10:11,11,1013,20,SO,10000,Parcialmente nublado,366
+A Coruna,Delta Air Lines,10:15,10:11,11,1013,20,SO,10000,Parcialmente nublado,366
+A Coruna,Etihad Airways,10:15,10:11,11,1013,20,SO,10000,Parcialmente nublado,366
+Palma de Mallorca,Air Europa,10:15,10:18,11,1013,20,SO,10000,Parcialmente nublado,366
+Palma de Mallorca,Air France,10:15,10:18,11,1013,20,SO,10000,Parcialmente nublado,366
+Palma de Mallorca,Aeromexico,10:15,10:18,11,1013,20,SO,10000,Parcialmente nublado,366
+Palma de Mallorca,Delta Air Lines,10:15,10:18,11,1013,20,SO,10000,Parcialmente nublado,366
+Palma de Mallorca,Etihad Airways,10:15,10:18,11,1013,20,SO,10000,Parcialmente nublado,366
+Palma de Mallorca,AirSERBIA,10:15,10:18,11,1013,20,SO,10000,Parcialmente nublado,366
+Helsinki,Iberia,10:20,10:20,11,1013,20,SO,10000,Parcialmente nublado,366
+Helsinki,Iberia,10:20,10:20,11,1013,20,SO,10000,Parcialmente nublado,366
+Helsinki,Japan Airlines,10:20,10:20,11,1013,20,SO,10000,Parcialmente nublado,366
+Helsinki,Finnair,10:20,10:20,11,1013,20,SO,10000,Parcialmente nublado,366
+Milan,Alitalia CityLiner,10:25,10:25,11,1013,20,SO,10000,Parcialmente nublado,366
+Milan,Alitalia,10:25,10:25,11,1013,20,SO,10000,Parcialmente nublado,366
+Asturias,Wasaya Airways,10:25,10:27,11,1013,20,SO,10000,Parcialmente nublado,366
+Asturias,Aeromexico,10:25,10:27,11,1013,20,SO,10000,Parcialmente nublado,366
+Asturias,AirSERBIA,10:25,10:27,11,1013,20,SO,10000,Parcialmente nublado,366
+Asturias,Air Europa,10:25,10:27,11,1013,20,SO,10000,Parcialmente nublado,366
+London,Norwegian Air International,10:25,10:35,11,1013,20,SO,10000,Parcialmente nublado,366
+Cologne,Malta Air,10:30,10:37,11,1013,20,SO,10000,Parcialmente nublado,366
+Cologne,Ryanair,10:30,10:37,11,1013,20,SO,10000,Parcialmente nublado,366
+Dublin,Ryanair,10:35,10:47,11,1013,20,SO,10000,Parcialmente nublado,366
+Atlanta,Delta Air Lines,10:40,10:33,11,1013,20,SO,10000,Parcialmente nublado,366
+Atlanta,Air France,10:40,10:33,11,1013,20,SO,10000,Parcialmente nublado,366
+Atlanta,Aeromexico,10:40,10:33,11,1013,20,SO,10000,Parcialmente nublado,366
+Atlanta,KLM,10:40,10:33,11,1013,20,SO,10000,Parcialmente nublado,366
+Casablanca,Air Nostrum,10:40,10:37,11,1013,20,SO,10000,Parcialmente nublado,366
+Casablanca,American Airlines,10:40,10:37,11,1013,20,SO,10000,Parcialmente nublado,366
+Casablanca,Royal Air Maroc,10:40,10:37,11,1013,20,SO,10000,Parcialmente nublado,366
+Casablanca,British Airways,10:40,10:37,11,1013,20,SO,10000,Parcialmente nublado,366
+Casablanca,Iberia,10:40,10:37,11,1013,20,SO,10000,Parcialmente nublado,366
+Athens,Iberia,10:40,10:39,11,1013,20,SO,10000,Parcialmente nublado,366
+Porto,White,10:40,10:43,11,1013,20,SO,10000,Parcialmente nublado,366
+Porto,Etihad Airways,10:40,10:43,11,1013,20,SO,10000,Parcialmente nublado,366
+Porto,El Al,10:40,10:43,11,1013,20,SO,10000,Parcialmente nublado,366
+Porto,Azores Airlines,10:40,10:43,11,1013,20,SO,10000,Parcialmente nublado,366
+Porto,TAP Portugal,10:40,10:43,11,1013,20,SO,10000,Parcialmente nublado,366
+Dallas,American Airlines,10:45,10:42,11,1013,20,SO,10000,Parcialmente nublado,366
+Dallas,Finnair,10:45,10:42,11,1013,20,SO,10000,Parcialmente nublado,366
+Dallas,British Airways,10:45,10:42,11,1013,20,SO,10000,Parcialmente nublado,366
+Dallas,Iberia,10:45,10:42,11,1013,20,SO,10000,Parcialmente nublado,366
+Paris,Vueling,10:45,10:43,11,1013,20,SO,10000,Parcialmente nublado,366
+Paris,British Airways,10:45,10:43,11,1013,20,SO,10000,Parcialmente nublado,366
+Paris,Iberia,10:45,10:43,11,1013,20,SO,10000,Parcialmente nublado,366
+New York,American Airlines,10:50,10:50,11,1013,20,SO,10000,Parcialmente nublado,366
+New York,Finnair,10:50,10:50,11,1013,20,SO,10000,Parcialmente nublado,366
+New York,British Airways,10:50,10:50,11,1013,20,SO,10000,Parcialmente nublado,366
+New York,Iberia,10:50,10:50,11,1013,20,SO,10000,Parcialmente nublado,366
+Nantes,Iberia Express,10:55,10:54,11,1013,20,SO,10000,Parcialmente nublado,366
+Nantes,Iberia,10:55,10:54,11,1013,20,SO,10000,Parcialmente nublado,366
+Ibiza,Vueling,11:00,10:53,12,1013,16,SO,10000,Mayormente despejado,366
+Ibiza,Iberia,11:00,10:53,12,1013,16,SO,10000,Mayormente despejado,366
+Fuerteventura,Ryanair,11:00,11:00,12,1013,16,SO,10000,Mayormente despejado,366
+Lima,Plus Ultra,11:00,11:21,12,1013,16,SO,10000,Mayormente despejado,366
+Amsterdam,KLM,11:00,11:04,12,1013,16,SO,10000,Mayormente despejado,366
+Amsterdam,China Southern Airlines,11:00,11:04,12,1013,16,SO,10000,Mayormente despejado,366
+Amsterdam,Delta Air Lines,11:00,11:04,12,1013,16,SO,10000,Mayormente despejado,366
+Amsterdam,Garuda Indonesia,11:00,11:04,12,1013,16,SO,10000,Mayormente despejado,366
+Amsterdam,Xiamen Airlines,11:00,11:04,12,1013,16,SO,10000,Mayormente despejado,366
+Beijing,Air China,11:10,11:08,12,1013,16,SO,10000,Mayormente despejado,366
+Beijing,LAN Airlines,11:10,11:08,12,1013,16,SO,10000,Mayormente despejado,366
+Tunis,Tunisair,11:10,12:07,12,1013,16,SO,10000,Mayormente despejado,366
+London,British Airways,11:10,11:11,12,1013,16,SO,10000,Mayormente despejado,366
+London,American Airlines,11:10,11:11,12,1013,16,SO,10000,Mayormente despejado,366
+London,Iberia,11:10,11:11,12,1013,16,SO,10000,Mayormente despejado,366
+London,Japan Airlines,11:10,11:11,12,1013,16,SO,10000,Mayormente despejado,366
+New York,United Airlines,11:15,11:11,12,1013,16,SO,10000,Mayormente despejado,366
+New York,Air Canada,11:15,11:11,12,1013,16,SO,10000,Mayormente despejado,366
+New York,Lufthansa,11:15,11:11,12,1013,16,SO,10000,Mayormente despejado,366
+New York,Swiss,11:15,11:11,12,1013,16,SO,10000,Mayormente despejado,366
+Melilla,Iberia,11:15,11:13,12,1013,16,SO,10000,Mayormente despejado,366
+Tangier,Air Nostrum,11:15,11:12,12,1013,16,SO,10000,Mayormente despejado,366
+Tangier,American Airlines,11:15,11:12,12,1013,16,SO,10000,Mayormente despejado,366
+Tangier,British Airways,11:15,11:12,12,1013,16,SO,10000,Mayormente despejado,366
+Tangier,Iberia,11:15,11:12,12,1013,16,SO,10000,Mayormente despejado,366
+Las Palmas,Iberia Express,11:15,11:15,12,1013,16,SO,10000,Mayormente despejado,366
+Las Palmas,American Airlines,11:15,11:15,12,1013,16,SO,10000,Mayormente despejado,366
+Las Palmas,Iberia,11:15,11:15,12,1013,16,SO,10000,Mayormente despejado,366
+Moscow,Aeroflot,11:20,11:11,12,1013,16,SO,10000,Mayormente despejado,366
+Moscow,Aerolineas Argentinas,11:20,11:11,12,1013,16,SO,10000,Mayormente despejado,366
+Moscow,Air Europa,11:20,11:11,12,1013,16,SO,10000,Mayormente despejado,366
+Palma de Mallorca,Iberia Express,11:25,11:24,12,1013,16,SO,10000,Mayormente despejado,366
+Palma de Mallorca,American Airlines,11:25,11:24,12,1013,16,SO,10000,Mayormente despejado,366
+Palma de Mallorca,Avianca,11:25,11:24,12,1013,16,SO,10000,Mayormente despejado,366
+Palma de Mallorca,British Airways,11:25,11:24,12,1013,16,SO,10000,Mayormente despejado,366
+Palma de Mallorca,Iberia,11:25,11:24,12,1013,16,SO,10000,Mayormente despejado,366
+Toulouse,Air Nostrum,11:25,11:20,12,1013,16,SO,10000,Mayormente despejado,366
+Toulouse,American Airlines,11:25,11:20,12,1013,16,SO,10000,Mayormente despejado,366
+Toulouse,Iberia,11:25,11:20,12,1013,16,SO,10000,Mayormente despejado,366
+A Coruna,Iberia,11:25,11:20,12,1013,16,SO,10000,Mayormente despejado,366
+A Coruna,American Airlines,11:25,11:20,12,1013,16,SO,10000,Mayormente despejado,366
+A Coruna,Avianca,11:25,11:20,12,1013,16,SO,10000,Mayormente despejado,366
+A Coruna,British Airways,11:25,11:20,12,1013,16,SO,10000,Mayormente despejado,366
+A Coruna,Qatar Airways,11:25,11:20,12,1013,16,SO,10000,Mayormente despejado,366
+Rome,Alitalia,11:25,11:27,12,1013,16,SO,10000,Mayormente despejado,366
+Rome,Aerolineas Argentinas,11:25,11:27,12,1013,16,SO,10000,Mayormente despejado,366
+Rome,Etihad Airways,11:25,11:27,12,1013,16,SO,10000,Mayormente despejado,366
+Rome,Bulgaria Air,11:25,11:27,12,1013,16,SO,10000,Mayormente despejado,366
+Rome,AirSERBIA,11:25,11:27,12,1013,16,SO,10000,Mayormente despejado,366
+Rome,Korean Air,11:25,11:27,12,1013,16,SO,10000,Mayormente despejado,366
+Rome,China Eastern Airlines,11:25,11:27,12,1013,16,SO,10000,Mayormente despejado,366
+Rome,Saudi Arabian Airlines,11:25,11:27,12,1013,16,SO,10000,Mayormente despejado,366
+Rome,Air Europa,11:25,11:27,12,1013,16,SO,10000,Mayormente despejado,366
+Rome,Iberia,11:25,11:26,12,1013,16,SO,10000,Mayormente despejado,366
+Brussels,Iberia,11:25,11:33,12,1013,16,SO,10000,Mayormente despejado,366
+Brussels,American Airlines,11:25,11:33,12,1013,16,SO,10000,Mayormente despejado,366
+Brussels,Finnair,11:25,11:33,12,1013,16,SO,10000,Mayormente despejado,366
+Brussels,Air Baltic,11:25,11:33,12,1013,16,SO,10000,Mayormente despejado,366
+Lanzarote,Iberia Express,11:25,11:31,12,1013,16,SO,10000,Mayormente despejado,366
+Lanzarote,American Airlines,11:25,11:31,12,1013,16,SO,10000,Mayormente despejado,366
+Lanzarote,British Airways,11:25,11:31,12,1013,16,SO,10000,Mayormente despejado,366
+Lanzarote,Iberia,11:25,11:31,12,1013,16,SO,10000,Mayormente despejado,366
+Lisbon,Iberia,11:25,11:26,12,1013,16,SO,10000,Mayormente despejado,366
+Lisbon,American Airlines,11:25,11:26,12,1013,16,SO,10000,Mayormente despejado,366
+Lisbon,Qatar Airways,11:25,11:26,12,1013,16,SO,10000,Mayormente despejado,366
+Tenerife,Iberia Express,11:30,11:30,12,1013,18,SO,10000,Mayormente despejado,366
+Tenerife,American Airlines,11:30,11:30,12,1013,18,SO,10000,Mayormente despejado,366
+Tenerife,British Airways,11:30,11:30,12,1013,18,SO,10000,Mayormente despejado,366
+Tenerife,Iberia,11:30,11:30,12,1013,18,SO,10000,Mayormente despejado,366
+Tenerife,Qatar Airways,11:30,11:30,12,1013,18,SO,10000,Mayormente despejado,366
+Fuerteventura,Iberia Express,11:30,11:27,12,1013,18,SO,10000,Mayormente despejado,366
+Fuerteventura,American Airlines,11:30,11:27,12,1013,18,SO,10000,Mayormente despejado,366
+Fuerteventura,British Airways,11:30,11:27,12,1013,18,SO,10000,Mayormente despejado,366
+Fuerteventura,Iberia,11:30,11:27,12,1013,18,SO,10000,Mayormente despejado,366
+Tenerife,Iberia Express,11:30,11:29,12,1013,18,SO,10000,Mayormente despejado,366
+Tenerife,American Airlines,11:30,11:29,12,1013,18,SO,10000,Mayormente despejado,366
+Tenerife,Iberia,11:30,11:29,12,1013,18,SO,10000,Mayormente despejado,366
+Barcelona,Iberia,11:30,11:46,12,1013,18,SO,10000,Mayormente despejado,366
+Barcelona,American Airlines,11:30,11:46,12,1013,18,SO,10000,Mayormente despejado,366
+San Jose,Iberia,11:35,11:35,12,1013,18,SO,10000,Mayormente despejado,366
+San Jose,British Airways,11:35,11:35,12,1013,18,SO,10000,Mayormente despejado,366
+Copenhagen,Iberia Express,11:35,11:35,12,1013,18,SO,10000,Mayormente despejado,366
+Copenhagen,Iberia,11:35,11:35,12,1013,18,SO,10000,Mayormente despejado,366
+Porto,Iberia,11:35,11:34,12,1013,18,SO,10000,Mayormente despejado,366
+Porto,American Airlines,11:35,11:34,12,1013,18,SO,10000,Mayormente despejado,366
+Porto,British Airways,11:35,11:34,12,1013,18,SO,10000,Mayormente despejado,366
+Porto,Qatar Airways,11:35,11:34,12,1013,18,SO,10000,Mayormente despejado,366
+Chicago,Iberia,11:35,11:40,12,1013,18,SO,10000,Mayormente despejado,366
+Chicago,American Airlines,11:35,11:40,12,1013,18,SO,10000,Mayormente despejado,366
+Chicago,Finnair,11:35,11:40,12,1013,18,SO,10000,Mayormente despejado,366
+Chicago,British Airways,11:35,11:40,12,1013,18,SO,10000,Mayormente despejado,366
+London,EasyJet,11:35,11:55,12,1013,18,SO,10000,Mayormente despejado,366
+Santander,Iberia,11:40,11:38,12,1013,18,SO,10000,Mayormente despejado,366
+Santander,American Airlines,11:40,11:38,12,1013,18,SO,10000,Mayormente despejado,366
+Santander,British Airways,11:40,11:38,12,1013,18,SO,10000,Mayormente despejado,366
+Santander,Qatar Airways,11:40,11:38,12,1013,18,SO,10000,Mayormente despejado,366
+Vigo,Iberia,11:40,11:40,12,1013,18,SO,10000,Mayormente despejado,366
+Vigo,American Airlines,11:40,11:40,12,1013,18,SO,10000,Mayormente despejado,366
+Vigo,Avianca,11:40,11:40,12,1013,18,SO,10000,Mayormente despejado,366
+Vigo,British Airways,11:40,11:40,12,1013,18,SO,10000,Mayormente despejado,366
+Vigo,Qatar Airways,11:40,11:40,12,1013,18,SO,10000,Mayormente despejado,366
+Santiago,Iberia Express,11:40,11:39,12,1013,18,SO,10000,Mayormente despejado,366
+Santiago,American Airlines,11:40,11:39,12,1013,18,SO,10000,Mayormente despejado,366
+Santiago,Avianca,11:40,11:39,12,1013,18,SO,10000,Mayormente despejado,366
+Santiago,British Airways,11:40,11:39,12,1013,18,SO,10000,Mayormente despejado,366
+Santiago,Iberia,11:40,11:39,12,1013,18,SO,10000,Mayormente despejado,366
+Algiers,Air Nostrum,11:40,11:50,12,1013,18,SO,10000,Mayormente despejado,366
+Algiers,Iberia,11:40,11:50,12,1013,18,SO,10000,Mayormente despejado,366
+Jerez,Iberia,11:40,11:42,12,1013,18,SO,10000,Mayormente despejado,366
+Jerez,American Airlines,11:40,11:42,12,1013,18,SO,10000,Mayormente despejado,366
+Jerez,Qatar Airways,11:40,11:42,12,1013,18,SO,10000,Mayormente despejado,366
+Seville,Iberia Express,11:40,14:31,12,1013,18,SO,10000,Mayormente despejado,366
+Seville,Iberia,11:40,14:31,12,1013,18,SO,10000,Mayormente despejado,366
+Asturias,Iberia,11:40,11:42,12,1013,18,SO,10000,Mayormente despejado,366
+Asturias,American Airlines,11:40,11:42,12,1013,18,SO,10000,Mayormente despejado,366
+Asturias,Avianca,11:40,11:42,12,1013,18,SO,10000,Mayormente despejado,366
+Asturias,British Airways,11:40,11:42,12,1013,18,SO,10000,Mayormente despejado,366
+Asturias,Qatar Airways,11:40,11:42,12,1013,18,SO,10000,Mayormente despejado,366
+La Palma,Iberia Express,11:45,11:45,12,1013,18,SO,10000,Mayormente despejado,366
+La Palma,American Airlines,11:45,11:45,12,1013,18,SO,10000,Mayormente despejado,366
+La Palma,British Airways,11:45,11:45,12,1013,18,SO,10000,Mayormente despejado,366
+La Palma,Iberia,11:45,11:45,12,1013,18,SO,10000,Mayormente despejado,366
+Santo Domingo,Iberia,11:45,11:50,12,1013,18,SO,10000,Mayormente despejado,366
+Santo Domingo,British Airways,11:45,11:50,12,1013,18,SO,10000,Mayormente despejado,366
+Santo Domingo,El Al,11:45,11:50,12,1013,18,SO,10000,Mayormente despejado,366
+Santo Domingo,Qatar Airways,11:45,11:50,12,1013,18,SO,10000,Mayormente despejado,366
+Dublin,Aer Lingus,11:45,11:50,12,1013,18,SO,10000,Mayormente despejado,366
+Dublin,British Airways,11:45,11:50,12,1013,18,SO,10000,Mayormente despejado,366
+Dublin,Etihad Airways,11:45,11:50,12,1013,18,SO,10000,Mayormente despejado,366
+Pamplona,Air Nostrum,11:50,11:49,12,1013,18,SO,10000,Mayormente despejado,366
+Pamplona,American Airlines,11:50,11:49,12,1013,18,SO,10000,Mayormente despejado,366
+Pamplona,British Airways,11:50,11:49,12,1013,18,SO,10000,Mayormente despejado,366
+Pamplona,Qatar Airways,11:50,11:49,12,1013,18,SO,10000,Mayormente despejado,366
+Pamplona,Iberia,11:50,11:49,12,1013,18,SO,10000,Mayormente despejado,366
+Rio de Janeiro,Iberia,11:50,11:57,12,1013,18,SO,10000,Mayormente despejado,366
+Rio de Janeiro,British Airways,11:50,11:57,12,1013,18,SO,10000,Mayormente despejado,366
+Rio de Janeiro,LAN Airlines,11:50,11:57,12,1013,18,SO,10000,Mayormente despejado,366
+Rio de Janeiro,El Al,11:50,11:57,12,1013,18,SO,10000,Mayormente despejado,366
+Rio de Janeiro,Qatar Airways,11:50,11:57,12,1013,18,SO,10000,Mayormente despejado,366
+Quito,Iberia,11:50,12:10,12,1013,18,SO,10000,Mayormente despejado,366
+Quito,LAN Airlines,11:50,12:10,12,1013,18,SO,10000,Mayormente despejado,366
+Panama City,Iberia,11:50,12:05,12,1013,18,SO,10000,Mayormente despejado,366
+Panama City,British Airways,11:50,12:05,12,1013,18,SO,10000,Mayormente despejado,366
+Panama City,Copa Airlines,11:50,12:05,12,1013,18,SO,10000,Mayormente despejado,366
+Panama City,El Al,11:50,12:05,12,1013,18,SO,10000,Mayormente despejado,366
+Panama City,Qatar Airways,11:50,12:05,12,1013,18,SO,10000,Mayormente despejado,366
+Paris,Iberia,11:50,11:56,12,1013,18,SO,10000,Mayormente despejado,366
+Paris,American Airlines,11:50,11:56,12,1013,18,SO,10000,Mayormente despejado,366
+Tenerife,Air Europa,11:50,11:57,12,1013,18,SO,10000,Mayormente despejado,366
+Tenerife,Air France,11:50,11:57,12,1013,18,SO,10000,Mayormente despejado,366
+Tenerife,Delta Air Lines,11:50,11:57,12,1013,18,SO,10000,Mayormente despejado,366
+Tenerife,Etihad Airways,11:50,11:57,12,1013,18,SO,10000,Mayormente despejado,366
+Tenerife,KLM,11:50,11:57,12,1013,18,SO,10000,Mayormente despejado,366
+Tenerife,Aeroflot,11:50,11:57,12,1013,18,SO,10000,Mayormente despejado,366
+Budapest,Iberia,11:55,11:55,12,1013,18,SO,10000,Mayormente despejado,366
+Barcelona,Vueling,11:55,12:17,12,1013,18,SO,10000,Mayormente despejado,366
+Barcelona,Iberia,11:55,12:17,12,1013,18,SO,10000,Mayormente despejado,366
+Barcelona,LAN Airlines,11:55,12:17,12,1013,18,SO,10000,Mayormente despejado,366
+Bilbao,Iberia,11:55,11:57,12,1013,18,SO,10000,Mayormente despejado,366
+Bilbao,American Airlines,11:55,11:57,12,1013,18,SO,10000,Mayormente despejado,366
+Bilbao,Avianca,11:55,11:57,12,1013,18,SO,10000,Mayormente despejado,366
+Bilbao,British Airways,11:55,11:57,12,1013,18,SO,10000,Mayormente despejado,366
+Bilbao,LAN Airlines,11:55,11:57,12,1013,18,SO,10000,Mayormente despejado,366
+Bilbao,Qatar Airways,11:55,11:57,12,1013,18,SO,10000,Mayormente despejado,366
+Bogota,Iberia,12:00,12:09,12,1013,20,SO,10000,Mayormente despejado,366
+Bogota,British Airways,12:00,12:09,12,1013,20,SO,10000,Mayormente despejado,366
+Bogota,LAN Airlines,12:00,12:09,12,1013,20,SO,10000,Mayormente despejado,366
+Bogota,El Al,12:00,12:09,12,1013,20,SO,10000,Mayormente despejado,366
+Bogota,Qatar Airways,12:00,12:09,12,1013,20,SO,10000,Mayormente despejado,366
+Valencia,Air Nostrum,12:00,12:03,12,1013,20,SO,10000,Mayormente despejado,366
+Valencia,American Airlines,12:00,12:03,12,1013,20,SO,10000,Mayormente despejado,366
+Valencia,Avianca,12:00,12:03,12,1013,20,SO,10000,Mayormente despejado,366
+Valencia,British Airways,12:00,12:03,12,1013,20,SO,10000,Mayormente despejado,366
+Valencia,Qatar Airways,12:00,12:03,12,1013,20,SO,10000,Mayormente despejado,366
+Valencia,Iberia,12:00,12:03,12,1013,20,SO,10000,Mayormente despejado,366
+Malaga,Air Nostrum,12:00,12:04,12,1013,20,SO,10000,Mayormente despejado,366
+Malaga,American Airlines,12:00,12:04,12,1013,20,SO,10000,Mayormente despejado,366
+Malaga,Qatar Airways,12:00,12:04,12,1013,20,SO,10000,Mayormente despejado,366
+Malaga,Iberia,12:00,12:04,12,1013,20,SO,10000,Mayormente despejado,366
+Prague,Iberia,12:05,12:01,12,1013,20,SO,10000,Mayormente despejado,366
+Prague,American Airlines,12:05,12:01,12,1013,20,SO,10000,Mayormente despejado,366
+Prague,Czech Airlines,12:05,12:01,12,1013,20,SO,10000,Mayormente despejado,366
+Munich,Lufthansa,12:05,12:27,12,1013,20,SO,10000,Mayormente despejado,366
+Munich,Avianca,12:05,12:27,12,1013,20,SO,10000,Mayormente despejado,366
+Munich,Austrian Airlines,12:05,12:27,12,1013,20,SO,10000,Mayormente despejado,366
+Munich,SAS,12:05,12:27,12,1013,20,SO,10000,Mayormente despejado,366
+Granada,Air Nostrum,12:05,12:09,12,1013,20,SO,10000,Mayormente despejado,366
+Granada,American Airlines,12:05,12:09,12,1013,20,SO,10000,Mayormente despejado,366
+Granada,Qatar Airways,12:05,12:09,12,1013,20,SO,10000,Mayormente despejado,366
+Granada,Iberia,12:05,12:09,12,1013,20,SO,10000,Mayormente despejado,366
+Lisbon,TAP Express,12:10,12:10,12,1013,20,SO,10000,Mayormente despejado,366
+Lisbon,Etihad Airways,12:10,12:10,12,1013,20,SO,10000,Mayormente despejado,366
+Lisbon,El Al,12:10,12:10,12,1013,20,SO,10000,Mayormente despejado,366
+Lisbon,Azores Airlines,12:10,12:10,12,1013,20,SO,10000,Mayormente despejado,366
+Lisbon,TAP Portugal,12:10,12:10,12,1013,20,SO,10000,Mayormente despejado,366
+Guatemala City,Iberia,12:10,12:30,12,1013,20,SO,10000,Mayormente despejado,366
+Guatemala City,British Airways,12:10,12:30,12,1013,20,SO,10000,Mayormente despejado,366
+Tel Aviv,El Al,12:15,12:42,12,1013,20,SO,10000,Mayormente despejado,366
+Tel Aviv,American Airlines,12:15,12:42,12,1013,20,SO,10000,Mayormente despejado,366
+Tel Aviv,Aeromexico,12:15,12:42,12,1013,20,SO,10000,Mayormente despejado,366
+Tel Aviv,Aerolineas Argentinas,12:15,12:42,12,1013,20,SO,10000,Mayormente despejado,366
+Tel Aviv,Iberia,12:15,12:42,12,1013,20,SO,10000,Mayormente despejado,366
+Bucharest,Tarom,12:15,13:00,12,1013,20,SO,10000,Mayormente despejado,366
+Bucharest,Air Europa,12:15,13:00,12,1013,20,SO,10000,Mayormente despejado,366
+Istanbul,Turkish Airlines,12:15,12:21,12,1013,20,SO,10000,Mayormente despejado,366
+Istanbul,Avianca,12:15,12:21,12,1013,20,SO,10000,Mayormente despejado,366
+Istanbul,Uzbekistan Airways,12:15,12:21,12,1013,20,SO,10000,Mayormente despejado,366
+Istanbul,Air Europa,12:15,12:21,12,1013,20,SO,10000,Mayormente despejado,366
+Miami,Iberia,12:20,12:20,12,1013,20,SO,10000,Mayormente despejado,366
+Miami,American Airlines,12:20,12:20,12,1013,20,SO,10000,Mayormente despejado,366
+Miami,Finnair,12:20,12:20,12,1013,20,SO,10000,Mayormente despejado,366
+Miami,British Airways,12:20,12:20,12,1013,20,SO,10000,Mayormente despejado,366
+Tenerife,Ryanair,12:20,12:19,12,1013,20,SO,10000,Mayormente despejado,366
+Mahon,Air Nostrum,12:20,12:18,12,1013,20,SO,10000,Mayormente despejado,366
+Mahon,American Airlines,12:20,12:18,12,1013,20,SO,10000,Mayormente despejado,366
+Mahon,Qatar Airways,12:20,12:18,12,1013,20,SO,10000,Mayormente despejado,366
+Mahon,Iberia,12:20,12:18,12,1013,20,SO,10000,Mayormente despejado,366
+Santiago,Iberia,12:20,12:23,12,1013,20,SO,10000,Mayormente despejado,366
+Santiago,British Airways,12:20,12:23,12,1013,20,SO,10000,Mayormente despejado,366
+Santiago,LAN Airlines,12:20,12:23,12,1013,20,SO,10000,Mayormente despejado,366
+Santiago,El Al,12:20,12:23,12,1013,20,SO,10000,Mayormente despejado,366
+Boston,Iberia,12:25,12:35,12,1013,20,SO,10000,Mayormente despejado,366
+Boston,American Airlines,12:25,12:35,12,1013,20,SO,10000,Mayormente despejado,366
+Boston,Finnair,12:25,12:35,12,1013,20,SO,10000,Mayormente despejado,366
+Boston,British Airways,12:25,12:35,12,1013,20,SO,10000,Mayormente despejado,366
+London,British Airways,12:30,12:28,13,1013,24,SO,10000,Mayormente despejado,701
+London,American Airlines,12:30,12:28,13,1013,24,SO,10000,Mayormente despejado,701
+London,Iberia,12:30,12:28,13,1013,24,SO,10000,Mayormente despejado,701
+London,Japan Airlines,12:30,12:28,13,1013,24,SO,10000,Mayormente despejado,701
+New York,Iberia,12:30,12:32,13,1013,24,SO,10000,Mayormente despejado,701
+New York,American Airlines,12:30,12:32,13,1013,24,SO,10000,Mayormente despejado,701
+New York,Finnair,12:30,12:32,13,1013,24,SO,10000,Mayormente despejado,701
+New York,British Airways,12:30,12:32,13,1013,24,SO,10000,Mayormente despejado,701
+Paris,Air France,12:35,13:24,13,1013,24,SO,10000,Mayormente despejado,701
+Paris,Delta Air Lines,12:35,13:24,13,1013,24,SO,10000,Mayormente despejado,701
+Paris,Korean Air,12:35,13:24,13,1013,24,SO,10000,Mayormente despejado,701
+Paris,Atlasjet,12:35,13:24,13,1013,24,SO,10000,Mayormente despejado,701
+Paris,Air Mauritius,12:35,13:24,13,1013,24,SO,10000,Mayormente despejado,701
+Paris,China Eastern Airlines,12:35,13:24,13,1013,24,SO,10000,Mayormente despejado,701
+Paris,Air Austral,12:35,13:24,13,1013,24,SO,10000,Mayormente despejado,701
+Paris,Air Europa,12:35,13:24,13,1013,24,SO,10000,Mayormente despejado,701
+Brussels,Brussels Airlines,12:40,13:09,13,1013,24,SO,10000,Mayormente despejado,701
+Brussels,Lufthansa,12:40,13:09,13,1013,24,SO,10000,Mayormente despejado,701
+Almeria,Air Nostrum,12:45,12:45,13,1013,24,SO,10000,Mayormente despejado,701
+Almeria,American Airlines,12:45,12:45,13,1013,24,SO,10000,Mayormente despejado,701
+Almeria,Qatar Airways,12:45,12:45,13,1013,24,SO,10000,Mayormente despejado,701
+Almeria,Iberia,12:45,12:45,13,1013,24,SO,10000,Mayormente despejado,701
+London,British Airways,12:50,12:49,13,1013,24,SO,10000,Mayormente despejado,701
+London,American Airlines,12:50,12:49,13,1013,24,SO,10000,Mayormente despejado,701
+Las Palmas,Iberia Express,12:50,12:50,13,1013,24,SO,10000,Mayormente despejado,701
+Las Palmas,American Airlines,12:50,12:50,13,1013,24,SO,10000,Mayormente despejado,701
+Las Palmas,British Airways,12:50,12:50,13,1013,24,SO,10000,Mayormente despejado,701
+Las Palmas,Iberia,12:50,12:50,13,1013,24,SO,10000,Mayormente despejado,701
+Las Palmas,Qatar Airways,12:50,12:50,13,1013,24,SO,10000,Mayormente despejado,701
+Toronto,Air Canada,12:55,12:50,13,1013,24,SO,10000,Mayormente despejado,701
+Toronto,Lufthansa,12:55,12:50,13,1013,24,SO,10000,Mayormente despejado,701
+Toronto,Brussels Airlines,12:55,12:50,13,1013,24,SO,10000,Mayormente despejado,701
+Toronto,United Airlines,12:55,12:50,13,1013,24,SO,10000,Mayormente despejado,701
+Casablanca,Royal Air Maroc,12:55,12:53,13,1013,24,SO,10000,Mayormente despejado,701
+Casablanca,Iberia,12:55,12:53,13,1013,24,SO,10000,Mayormente despejado,701
+Bilbao,Iberia,12:55,12:56,13,1013,24,SO,10000,Mayormente despejado,701
+Bilbao,American Airlines,12:55,12:56,13,1013,24,SO,10000,Mayormente despejado,701
+Bilbao,British Airways,12:55,12:56,13,1013,24,SO,10000,Mayormente despejado,701
+Bilbao,Qatar Airways,12:55,12:56,13,1013,24,SO,10000,Mayormente despejado,701
+Philadelphia,American Airlines,13:00,12:59,13,1013,24,SO,10000,Parcialmente nublado,701
+Philadelphia,Finnair,13:00,12:59,13,1013,24,SO,10000,Parcialmente nublado,701
+Philadelphia,British Airways,13:00,12:59,13,1013,24,SO,10000,Parcialmente nublado,701
+Philadelphia,Iberia,13:00,12:59,13,1013,24,SO,10000,Parcialmente nublado,701
+Philadelphia,El Al,13:00,12:59,13,1013,24,SO,10000,Parcialmente nublado,701
+Amsterdam,KLM,13:00,13:15,13,1013,24,SO,10000,Parcialmente nublado,701
+Amsterdam,China Airlines,13:00,13:15,13,1013,24,SO,10000,Parcialmente nublado,701
+Amsterdam,China Southern Airlines,13:00,13:15,13,1013,24,SO,10000,Parcialmente nublado,701
+Amsterdam,Delta Air Lines,13:00,13:15,13,1013,24,SO,10000,Parcialmente nublado,701
+Amsterdam,Etihad Airways,13:00,13:15,13,1013,24,SO,10000,Parcialmente nublado,701
+Amsterdam,Garuda Indonesia,13:00,13:15,13,1013,24,SO,10000,Parcialmente nublado,701
+Amsterdam,Xiamen Airlines,13:00,13:15,13,1013,24,SO,10000,Parcialmente nublado,701
+Amsterdam,China Eastern Airlines,13:00,13:15,13,1013,24,SO,10000,Parcialmente nublado,701
+Amsterdam,Air Europa,13:00,13:15,13,1013,24,SO,10000,Parcialmente nublado,701
+Lima,Iberia,13:05,13:03,13,1013,24,SO,10000,Parcialmente nublado,701
+Lima,British Airways,13:05,13:03,13,1013,24,SO,10000,Parcialmente nublado,701
+Lima,LAN Airlines,13:05,13:03,13,1013,24,SO,10000,Parcialmente nublado,701
+Lima,El Al,13:05,13:03,13,1013,24,SO,10000,Parcialmente nublado,701
+Lima,Qatar Airways,13:05,13:03,13,1013,24,SO,10000,Parcialmente nublado,701
+Naples,Ryanair,13:05,13:34,13,1013,24,SO,10000,Parcialmente nublado,701
+London,Ryanair,13:05,13:23,13,1013,24,SO,10000,Parcialmente nublado,701
+Havana,Evelop Airlines,13:10,13:41,13,1013,24,SO,10000,Parcialmente nublado,701
+Havana,Flex Flight,13:10,13:41,13,1013,24,SO,10000,Parcialmente nublado,701
+Basel,EasyJet Switzerland,13:10,13:12,13,1013,24,SO,10000,Parcialmente nublado,701
+Basel,EasyJet,13:10,13:12,13,1013,24,SO,10000,Parcialmente nublado,701
+Mexico City,Iberia,13:15,13:18,13,1013,24,SO,10000,Parcialmente nublado,701
+Mexico City,Finnair,13:15,13:18,13,1013,24,SO,10000,Parcialmente nublado,701
+Mexico City,British Airways,13:15,13:18,13,1013,24,SO,10000,Parcialmente nublado,701
+Mexico City,El Al,13:15,13:18,13,1013,24,SO,10000,Parcialmente nublado,701
+Mexico City,Qatar Airways,13:15,13:18,13,1013,24,SO,10000,Parcialmente nublado,701
+Barcelona,Iberia,13:15,13:22,13,1013,24,SO,10000,Parcialmente nublado,701
+Milan,Air Europa,13:20,13:19,13,1013,24,SO,10000,Parcialmente nublado,701
+Milan,Alitalia,13:20,13:19,13,1013,24,SO,10000,Parcialmente nublado,701
+Milan,Etihad Airways,13:20,13:19,13,1013,24,SO,10000,Parcialmente nublado,701
+Rome,Air Europa,13:20,13:18,13,1013,24,SO,10000,Parcialmente nublado,701
+Rome,Alitalia,13:20,13:18,13,1013,24,SO,10000,Parcialmente nublado,701
+Rome,Etihad Airways,13:20,13:18,13,1013,24,SO,10000,Parcialmente nublado,701
+Rome,AirSERBIA,13:20,13:18,13,1013,24,SO,10000,Parcialmente nublado,701
+London,Iberia,13:20,13:26,13,1013,24,SO,10000,Parcialmente nublado,701
+London,American Airlines,13:20,13:26,13,1013,24,SO,10000,Parcialmente nublado,701
+London,British Airways,13:20,13:26,13,1013,24,SO,10000,Parcialmente nublado,701
+London,LAN Airlines,13:20,13:26,13,1013,24,SO,10000,Parcialmente nublado,701
+Frankfurt,Lufthansa,13:30,13:54,13,1013,20,SO,10000,Parcialmente nublado,1219
+Frankfurt,Air Canada,13:30,13:54,13,1013,20,SO,10000,Parcialmente nublado,1219
+Frankfurt,Air China,13:30,13:54,13,1013,20,SO,10000,Parcialmente nublado,1219
+Frankfurt,Austrian Airlines,13:30,13:54,13,1013,20,SO,10000,Parcialmente nublado,1219
+Frankfurt,SAS,13:30,13:54,13,1013,20,SO,10000,Parcialmente nublado,1219
+Frankfurt,United Airlines,13:30,13:54,13,1013,20,SO,10000,Parcialmente nublado,1219
+Istanbul,Pegasus Airlines,13:35,14:11,13,1013,20,SO,10000,Parcialmente nublado,1219
+Kiev,Ukraine Int. Airlines,13:35,13:50,13,1013,20,SO,10000,Parcialmente nublado,1219
+Tenerife,Iberia Express,13:45,14:03,13,1013,20,SO,10000,Parcialmente nublado,1219
+Tenerife,Iberia,13:45,14:03,13,1013,20,SO,10000,Parcialmente nublado,1219
+Milan,Iberia,13:50,13:49,13,1013,20,SO,10000,Parcialmente nublado,1219
+Milan,American Airlines,13:50,13:49,13,1013,20,SO,10000,Parcialmente nublado,1219
+Milan,Meridiana,13:50,13:49,13,1013,20,SO,10000,Parcialmente nublado,1219
+Bogota,Avianca,13:50,14:09,13,1013,20,SO,10000,Parcialmente nublado,1219
+Bogota,Etihad Airways,13:50,14:09,13,1013,20,SO,10000,Parcialmente nublado,1219
+Palma de Mallorca,Air Europa,13:50,14:05,13,1013,20,SO,10000,Parcialmente nublado,1219
+Palma de Mallorca,Air France,13:50,14:05,13,1013,20,SO,10000,Parcialmente nublado,1219
+Palma de Mallorca,Alitalia,13:50,14:05,13,1013,20,SO,10000,Parcialmente nublado,1219
+Palma de Mallorca,Delta Air Lines,13:50,14:05,13,1013,20,SO,10000,Parcialmente nublado,1219
+Palma de Mallorca,AirSERBIA,13:50,14:05,13,1013,20,SO,10000,Parcialmente nublado,1219
+Palma de Mallorca,KLM,13:50,14:05,13,1013,20,SO,10000,Parcialmente nublado,1219
+Palma de Mallorca,Tarom,13:50,14:05,13,1013,20,SO,10000,Parcialmente nublado,1219
+Palma de Mallorca,Aeroflot,13:50,14:05,13,1013,20,SO,10000,Parcialmente nublado,1219
+Palma de Mallorca,Turkish Airlines,13:50,14:05,13,1013,20,SO,10000,Parcialmente nublado,1219
+San Sebastian,Air Nostrum,13:50,13:56,13,1013,20,SO,10000,Parcialmente nublado,1219
+San Sebastian,American Airlines,13:50,13:56,13,1013,20,SO,10000,Parcialmente nublado,1219
+San Sebastian,Qatar Airways,13:50,13:56,13,1013,20,SO,10000,Parcialmente nublado,1219
+San Sebastian,Iberia,13:50,13:56,13,1013,20,SO,10000,Parcialmente nublado,1219
+Cali,Avianca,14:10,14:37,14,1012,16,S,10000,Parcialmente nublado,1219
+Cali,Air China,14:10,14:37,14,1012,16,S,10000,Parcialmente nublado,1219
+Cali,Etihad Airways,14:10,14:37,14,1012,16,S,10000,Parcialmente nublado,1219
+Cali,Turkish Airlines,14:10,14:37,14,1012,16,S,10000,Parcialmente nublado,1219
+Tangier,Ryanair,14:15,14:23,14,1012,16,S,10000,Parcialmente nublado,1219
+A Coruna,Air Europa,14:15,14:21,14,1012,16,S,10000,Parcialmente nublado,1219
+A Coruna,Aeromexico,14:15,14:21,14,1012,16,S,10000,Parcialmente nublado,1219
+A Coruna,Alitalia,14:15,14:21,14,1012,16,S,10000,Parcialmente nublado,1219
+A Coruna,Delta Air Lines,14:15,14:21,14,1012,16,S,10000,Parcialmente nublado,1219
+A Coruna,KLM,14:15,14:21,14,1012,16,S,10000,Parcialmente nublado,1219
+A Coruna,Aeroflot,14:15,14:21,14,1012,16,S,10000,Parcialmente nublado,1219
+A Coruna,Saudi Arabian Airlines,14:15,14:21,14,1012,16,S,10000,Parcialmente nublado,1219
+Paris,Air Europa,14:20,14:20,14,1012,16,S,10000,Parcialmente nublado,1219
+Paris,Air France,14:20,14:20,14,1012,16,S,10000,Parcialmente nublado,1219
+Paris,Aeromexico,14:20,14:20,14,1012,16,S,10000,Parcialmente nublado,1219
+Dubai,Emirates,14:25,14:36,14,1012,16,S,10000,Parcialmente nublado,1219
+Dubai,Qantas,14:25,14:36,14,1012,16,S,10000,Parcialmente nublado,1219
+Mexico City,Aeromexico,14:30,14:31,14,1012,18,SO,10000,Parcialmente nublado,914
+Mexico City,El Al,14:30,14:31,14,1012,18,SO,10000,Parcialmente nublado,914
+Mexico City,Aeroflot,14:30,14:31,14,1012,18,SO,10000,Parcialmente nublado,914
+Mexico City,Air Europa,14:30,14:31,14,1012,18,SO,10000,Parcialmente nublado,914
+Paris,Iberia,14:30,14:33,14,1012,18,SO,10000,Parcialmente nublado,914
+Barcelona,Iberia,14:30,14:33,14,1012,18,SO,10000,Parcialmente nublado,914
+Barcelona,Avianca,14:30,14:33,14,1012,18,SO,10000,Parcialmente nublado,914
+Barcelona,LAN Airlines,14:30,14:33,14,1012,18,SO,10000,Parcialmente nublado,914
+Rabat,Ryanair,14:40,14:44,14,1012,18,SO,10000,Parcialmente nublado,914
+Rome,Ryanair,14:40,15:15,14,1012,18,SO,10000,Parcialmente nublado,914
+Seville,Wasaya Airways,14:40,14:43,14,1012,18,SO,10000,Parcialmente nublado,914
+Seville,Aeromexico,14:40,14:43,14,1012,18,SO,10000,Parcialmente nublado,914
+Seville,Etihad Airways,14:40,14:43,14,1012,18,SO,10000,Parcialmente nublado,914
+Seville,AirSERBIA,14:40,14:43,14,1012,18,SO,10000,Parcialmente nublado,914
+Seville,Aeroflot,14:40,14:43,14,1012,18,SO,10000,Parcialmente nublado,914
+Seville,Air Europa,14:40,14:43,14,1012,18,SO,10000,Parcialmente nublado,914
+Malaga,Wasaya Airways,14:45,14:50,14,1012,18,SO,10000,Parcialmente nublado,914
+Malaga,Aeromexico,14:45,14:50,14,1012,18,SO,10000,Parcialmente nublado,914
+Malaga,MEA,14:45,14:50,14,1012,18,SO,10000,Parcialmente nublado,914
+Malaga,Air Europa,14:45,14:50,14,1012,18,SO,10000,Parcialmente nublado,914
+Alicante,Wasaya Airways,14:45,14:48,14,1012,18,SO,10000,Parcialmente nublado,914
+Alicante,Aeromexico,14:45,14:48,14,1012,18,SO,10000,Parcialmente nublado,914
+Alicante,Alitalia,14:45,14:48,14,1012,18,SO,10000,Parcialmente nublado,914
+Alicante,Air Europa,14:45,14:48,14,1012,18,SO,10000,Parcialmente nublado,914
+London,Iberia,14:45,14:47,14,1012,18,SO,10000,Parcialmente nublado,914
+London,American Airlines,14:45,14:47,14,1012,18,SO,10000,Parcialmente nublado,914
+London,British Airways,14:45,14:47,14,1012,18,SO,10000,Parcialmente nublado,914
+London,Japan Airlines,14:45,14:47,14,1012,18,SO,10000,Parcialmente nublado,914
+London,LAN Airlines,14:45,14:47,14,1012,18,SO,10000,Parcialmente nublado,914
+Cairo,EgyptAir,14:50,15:41,14,1012,18,SO,10000,Parcialmente nublado,914
+Cairo,TAP Portugal,14:50,15:41,14,1012,18,SO,10000,Parcialmente nublado,914
+Asturias,Wasaya Airways,14:50,14:59,14,1012,18,SO,10000,Parcialmente nublado,914
+Asturias,Aeromexico,14:50,14:59,14,1012,18,SO,10000,Parcialmente nublado,914
+Asturias,Etihad Airways,14:50,14:59,14,1012,18,SO,10000,Parcialmente nublado,914
+Asturias,Aeroflot,14:50,14:59,14,1012,18,SO,10000,Parcialmente nublado,914
+Asturias,Air Europa,14:50,14:59,14,1012,18,SO,10000,Parcialmente nublado,914
+Bogota,Avianca,14:55,14:53,14,1012,18,SO,10000,Parcialmente nublado,914
+Bogota,Etihad Airways,14:55,14:53,14,1012,18,SO,10000,Parcialmente nublado,914
+Bogota,Turkish Airlines,14:55,14:53,14,1012,18,SO,10000,Parcialmente nublado,914
+Rome,Air Europa,14:55,14:58,14,1012,18,SO,10000,Parcialmente nublado,914
+Rome,Aeromexico,14:55,14:58,14,1012,18,SO,10000,Parcialmente nublado,914
+Rome,Alitalia,14:55,14:58,14,1012,18,SO,10000,Parcialmente nublado,914
+Rome,Etihad Airways,14:55,14:58,14,1012,18,SO,10000,Parcialmente nublado,914
+Rome,AirSERBIA,14:55,14:58,14,1012,18,SO,10000,Parcialmente nublado,914
+Rome,China Eastern Airlines,14:55,14:58,14,1012,18,SO,10000,Parcialmente nublado,914
+London,Air Europa,14:55,14:56,14,1012,18,SO,10000,Parcialmente nublado,914
+London,Aeromexico,14:55,14:56,14,1012,18,SO,10000,Parcialmente nublado,914
+London,China Airlines,14:55,14:56,14,1012,18,SO,10000,Parcialmente nublado,914
+Amsterdam,Air Europa,15:00,16:28,14,1012,18,SO,10000,Parcialmente nublado,914
+Amsterdam,Aeromexico,15:00,16:28,14,1012,18,SO,10000,Parcialmente nublado,914
+Amsterdam,Etihad Airways,15:00,16:28,14,1012,18,SO,10000,Parcialmente nublado,914
+Amsterdam,Garuda Indonesia,15:00,16:28,14,1012,18,SO,10000,Parcialmente nublado,914
+Amsterdam,AirSERBIA,15:00,16:28,14,1012,18,SO,10000,Parcialmente nublado,914
+Amsterdam,MEA,15:00,16:28,14,1012,18,SO,10000,Parcialmente nublado,914
+Amsterdam,China Eastern Airlines,15:00,16:28,14,1012,18,SO,10000,Parcialmente nublado,914
+Barcelona,Air Europa,15:00,15:02,14,1012,18,SO,10000,Parcialmente nublado,914
+Barcelona,Aeromexico,15:00,15:02,14,1012,18,SO,10000,Parcialmente nublado,914
+Barcelona,Delta Air Lines,15:00,15:02,14,1012,18,SO,10000,Parcialmente nublado,914
+Barcelona,Etihad Airways,15:00,15:02,14,1012,18,SO,10000,Parcialmente nublado,914
+Barcelona,Korean Air,15:00,15:02,14,1012,18,SO,10000,Parcialmente nublado,914
+Barcelona,MEA,15:00,15:02,14,1012,18,SO,10000,Parcialmente nublado,914
+Barcelona,Saudi Arabian Airlines,15:00,15:02,14,1012,18,SO,10000,Parcialmente nublado,914
+Barcelona,Vueling,15:00,15:09,14,1012,18,SO,10000,Parcialmente nublado,914
+Barcelona,Iberia,15:00,15:09,14,1012,18,SO,10000,Parcialmente nublado,914
+Barcelona,Qatar Airways,15:00,15:09,14,1012,18,SO,10000,Parcialmente nublado,914
+Las Palmas,Iberia Express,15:00,15:01,14,1012,18,SO,10000,Parcialmente nublado,914
+Las Palmas,American Airlines,15:00,15:01,14,1012,18,SO,10000,Parcialmente nublado,914
+Las Palmas,Avianca,15:00,15:01,14,1012,18,SO,10000,Parcialmente nublado,914
+Las Palmas,British Airways,15:00,15:01,14,1012,18,SO,10000,Parcialmente nublado,914
+Las Palmas,Iberia,15:00,15:01,14,1012,18,SO,10000,Parcialmente nublado,914
+Las Palmas,LAN Airlines,15:00,15:01,14,1012,18,SO,10000,Parcialmente nublado,914
+Las Palmas,Qatar Airways,15:00,15:01,14,1012,18,SO,10000,Parcialmente nublado,914
+Tenerife,Air Europa,15:00,15:10,14,1012,18,SO,10000,Parcialmente nublado,914
+Tenerife,Air France,15:00,15:10,14,1012,18,SO,10000,Parcialmente nublado,914
+Tenerife,Aeromexico,15:00,15:10,14,1012,18,SO,10000,Parcialmente nublado,914
+Tenerife,Alitalia,15:00,15:10,14,1012,18,SO,10000,Parcialmente nublado,914
+Tenerife,KLM,15:00,15:10,14,1012,18,SO,10000,Parcialmente nublado,914
+Tenerife,Tarom,15:00,15:10,14,1012,18,SO,10000,Parcialmente nublado,914
+Tenerife,Aeroflot,15:00,15:10,14,1012,18,SO,10000,Parcialmente nublado,914
+Frankfurt,LAN Airlines,15:00,15:03,14,1012,18,SO,10000,Parcialmente nublado,914
+Amman,Royal Jordanian,15:05,15:01,14,1012,18,SO,10000,Parcialmente nublado,914
+Amman,Iberia,15:05,15:01,14,1012,18,SO,10000,Parcialmente nublado,914
+Panama City,Air Europa,15:05,15:32,14,1012,18,SO,10000,Parcialmente nublado,914
+Panama City,Copa Airlines,15:05,15:32,14,1012,18,SO,10000,Parcialmente nublado,914
+Las Palmas,Air Europa,15:05,15:09,14,1012,18,SO,10000,Parcialmente nublado,914
+Las Palmas,Air France,15:05,15:09,14,1012,18,SO,10000,Parcialmente nublado,914
+Las Palmas,Aeromexico,15:05,15:09,14,1012,18,SO,10000,Parcialmente nublado,914
+Las Palmas,Alitalia,15:05,15:09,14,1012,18,SO,10000,Parcialmente nublado,914
+Las Palmas,Etihad Airways,15:05,15:09,14,1012,18,SO,10000,Parcialmente nublado,914
+Las Palmas,KLM,15:05,15:09,14,1012,18,SO,10000,Parcialmente nublado,914
+Las Palmas,Tarom,15:05,15:09,14,1012,18,SO,10000,Parcialmente nublado,914
+Las Palmas,Aeroflot,15:05,15:09,14,1012,18,SO,10000,Parcialmente nublado,914
+Las Palmas,Turkish Airlines,15:05,15:09,14,1012,18,SO,10000,Parcialmente nublado,914
+Bogota,Air Europa,15:10,15:08,14,1012,18,SO,10000,Parcialmente nublado,914
+Doha,Qatar Airways,15:10,15:08,14,1012,18,SO,10000,Parcialmente nublado,914
+Doha,Iberia,15:10,15:08,14,1012,18,SO,10000,Parcialmente nublado,914
+Cancun,Air Europa,15:10,15:36,14,1012,18,SO,10000,Parcialmente nublado,914
+Cancun,Aeromexico,15:10,15:36,14,1012,18,SO,10000,Parcialmente nublado,914
+Cancun,Etihad Airways,15:10,15:36,14,1012,18,SO,10000,Parcialmente nublado,914
+Valencia,Wasaya Airways,15:15,15:21,14,1012,18,SO,10000,Parcialmente nublado,914
+Valencia,Aeromexico,15:15,15:21,14,1012,18,SO,10000,Parcialmente nublado,914
+Valencia,MEA,15:15,15:21,14,1012,18,SO,10000,Parcialmente nublado,914
+Valencia,Air Europa,15:15,15:21,14,1012,18,SO,10000,Parcialmente nublado,914
+Milan,Air Europa,15:15,15:18,14,1012,18,SO,10000,Parcialmente nublado,914
+Milan,Aeromexico,15:15,15:18,14,1012,18,SO,10000,Parcialmente nublado,914
+Milan,Alitalia,15:15,15:18,14,1012,18,SO,10000,Parcialmente nublado,914
+Milan,AirSERBIA,15:15,15:18,14,1012,18,SO,10000,Parcialmente nublado,914
+Milan,China Eastern Airlines,15:15,15:18,14,1012,18,SO,10000,Parcialmente nublado,914
+Munich,Lufthansa,15:20,15:48,14,1012,18,SO,10000,Parcialmente nublado,914
+Munich,Avianca,15:20,15:48,14,1012,18,SO,10000,Parcialmente nublado,914
+Munich,All Nippon Airways,15:20,15:48,14,1012,18,SO,10000,Parcialmente nublado,914
+Munich,Austrian Airlines,15:20,15:48,14,1012,18,SO,10000,Parcialmente nublado,914
+Munich,South African Airways,15:20,15:48,14,1012,18,SO,10000,Parcialmente nublado,914
+Munich,Oman Air,15:20,15:48,14,1012,18,SO,10000,Parcialmente nublado,914
+Strasbourg,Air Nostrum,15:25,15:23,14,1012,18,SO,10000,Parcialmente nublado,914
+Strasbourg,Iberia,15:25,15:23,14,1012,18,SO,10000,Parcialmente nublado,914
+Miami,Air Europa,15:25,15:44,14,1012,18,SO,10000,Parcialmente nublado,914
+Miami,Delta Air Lines,15:25,15:44,14,1012,18,SO,10000,Parcialmente nublado,914
+Miami,Saudi Arabian Airlines,15:25,15:44,14,1012,18,SO,10000,Parcialmente nublado,914
+Caracas,Air Europa,15:25,15:56,14,1012,18,SO,10000,Parcialmente nublado,914
+Paris,EasyJet Europe,15:25,15:29,14,1012,18,SO,10000,Parcialmente nublado,914
+Zurich,Swiss,15:25,15:29,14,1012,18,SO,10000,Parcialmente nublado,914
+Paris,EasyJet,15:25,15:28,14,1012,18,SO,10000,Parcialmente nublado,914
+Warsaw,GetJet Airlines,15:30,15:50,14,1012,20,SO,10000,Mayormente despejado,914
+Warsaw,LOT,15:30,15:50,14,1012,20,SO,10000,Mayormente despejado,914
+Paris,Air France,15:35,15:32,14,1012,20,SO,10000,Mayormente despejado,914
+Paris,Flybe,15:35,15:32,14,1012,20,SO,10000,Mayormente despejado,914
+Paris,Delta Air Lines,15:35,15:32,14,1012,20,SO,10000,Mayormente despejado,914
+Paris,GOL Transportes Aeros,15:35,15:32,14,1012,20,SO,10000,Mayormente despejado,914
+Paris,Korean Air,15:35,15:32,14,1012,20,SO,10000,Mayormente despejado,914
+Paris,Atlasjet,15:35,15:32,14,1012,20,SO,10000,Mayormente despejado,914
+Paris,Kenya Airways,15:35,15:32,14,1012,20,SO,10000,Mayormente despejado,914
+Paris,Air Mauritius,15:35,15:32,14,1012,20,SO,10000,Mayormente despejado,914
+Paris,China Eastern Airlines,15:35,15:32,14,1012,20,SO,10000,Mayormente despejado,914
+Paris,Singapore Airlines,15:35,15:32,14,1012,20,SO,10000,Mayormente despejado,914
+Paris,Air Austral,15:35,15:32,14,1012,20,SO,10000,Mayormente despejado,914
+Paris,Air Europa,15:35,15:32,14,1012,20,SO,10000,Mayormente despejado,914
+Bordeaux,Air Nostrum,15:35,15:31,14,1012,20,SO,10000,Mayormente despejado,914
+Bordeaux,American Airlines,15:35,15:31,14,1012,20,SO,10000,Mayormente despejado,914
+Bordeaux,Iberia,15:35,15:31,14,1012,20,SO,10000,Mayormente despejado,914
+Toulouse,Air Nostrum,15:35,15:30,14,1012,20,SO,10000,Mayormente despejado,914
+Toulouse,Iberia,15:35,15:30,14,1012,20,SO,10000,Mayormente despejado,914
+Havana,Air Europa,15:35,16:34,14,1012,20,SO,10000,Mayormente despejado,914
+Havana,China Eastern Airlines,15:35,16:34,14,1012,20,SO,10000,Mayormente despejado,914
+Havana,Turkish Airlines,15:35,16:34,14,1012,20,SO,10000,Mayormente despejado,914
+Geneva,Iberia,15:40,15:39,14,1012,20,SO,10000,Mayormente despejado,914
+Geneva,American Airlines,15:40,15:39,14,1012,20,SO,10000,Mayormente despejado,914
+Geneva,Finnair,15:40,15:39,14,1012,20,SO,10000,Mayormente despejado,914
+Geneva,LAN Airlines,15:40,15:39,14,1012,20,SO,10000,Mayormente despejado,914
+Frankfurt,Air Nostrum,15:40,16:10,14,1012,20,SO,10000,Mayormente despejado,914
+Frankfurt,American Airlines,15:40,16:10,14,1012,20,SO,10000,Mayormente despejado,914
+Frankfurt,Finnair,15:40,16:10,14,1012,20,SO,10000,Mayormente despejado,914
+Frankfurt,Japan Airlines,15:40,16:10,14,1012,20,SO,10000,Mayormente despejado,914
+Frankfurt,Boliviana de Aviacion,15:40,16:10,14,1012,20,SO,10000,Mayormente despejado,914
+Frankfurt,Iberia,15:40,16:10,14,1012,20,SO,10000,Mayormente despejado,914
+Bilbao,Iberia,15:45,15:45,14,1012,20,SO,10000,Mayormente despejado,914
+Bilbao,American Airlines,15:45,15:45,14,1012,20,SO,10000,Mayormente despejado,914
+Bilbao,Avianca,15:45,15:45,14,1012,20,SO,10000,Mayormente despejado,914
+Bilbao,British Airways,15:45,15:45,14,1012,20,SO,10000,Mayormente despejado,914
+Bilbao,LAN Airlines,15:45,15:45,14,1012,20,SO,10000,Mayormente despejado,914
+Bilbao,Qatar Airways,15:45,15:45,14,1012,20,SO,10000,Mayormente despejado,914
+Lisbon,Iberia,15:45,15:42,14,1012,20,SO,10000,Mayormente despejado,914
+Lisbon,American Airlines,15:45,15:42,14,1012,20,SO,10000,Mayormente despejado,914
+Lisbon,LAN Airlines,15:45,15:42,14,1012,20,SO,10000,Mayormente despejado,914
+Lisbon,Qatar Airways,15:45,15:42,14,1012,20,SO,10000,Mayormente despejado,914
+Asturias,Iberia,15:45,15:41,14,1012,20,SO,10000,Mayormente despejado,914
+Asturias,American Airlines,15:45,15:41,14,1012,20,SO,10000,Mayormente despejado,914
+Asturias,Avianca,15:45,15:41,14,1012,20,SO,10000,Mayormente despejado,914
+Asturias,British Airways,15:45,15:41,14,1012,20,SO,10000,Mayormente despejado,914
+Asturias,LAN Airlines,15:45,15:41,14,1012,20,SO,10000,Mayormente despejado,914
+Asturias,Qatar Airways,15:45,15:41,14,1012,20,SO,10000,Mayormente despejado,914
+Palma de Mallorca,Iberia Express,15:45,15:45,14,1012,20,SO,10000,Mayormente despejado,914
+Palma de Mallorca,American Airlines,15:45,15:45,14,1012,20,SO,10000,Mayormente despejado,914
+Palma de Mallorca,British Airways,15:45,15:45,14,1012,20,SO,10000,Mayormente despejado,914
+Palma de Mallorca,Iberia,15:45,15:45,14,1012,20,SO,10000,Mayormente despejado,914
+Palma de Mallorca,LAN Airlines,15:45,15:45,14,1012,20,SO,10000,Mayormente despejado,914
+Santiago,Iberia Express,15:45,15:50,14,1012,20,SO,10000,Mayormente despejado,914
+Santiago,American Airlines,15:45,15:50,14,1012,20,SO,10000,Mayormente despejado,914
+Santiago,British Airways,15:45,15:50,14,1012,20,SO,10000,Mayormente despejado,914
+Santiago,Iberia,15:45,15:50,14,1012,20,SO,10000,Mayormente despejado,914
+Santiago,LAN Airlines,15:45,15:50,14,1012,20,SO,10000,Mayormente despejado,914
+Barcelona,Iberia,15:45,16:41,14,1012,20,SO,10000,Mayormente despejado,914
+Barcelona,Avianca,15:45,16:41,14,1012,20,SO,10000,Mayormente despejado,914
+Barcelona,Boliviana de Aviacion,15:45,16:41,14,1012,20,SO,10000,Mayormente despejado,914
+Jerez,Iberia,15:45,15:48,14,1012,20,SO,10000,Mayormente despejado,914
+Jerez,American Airlines,15:45,15:48,14,1012,20,SO,10000,Mayormente despejado,914
+Jerez,British Airways,15:45,15:48,14,1012,20,SO,10000,Mayormente despejado,914
+Jerez,LAN Airlines,15:45,15:48,14,1012,20,SO,10000,Mayormente despejado,914
+Jerez,Qatar Airways,15:45,15:48,14,1012,20,SO,10000,Mayormente despejado,914
+Nice,Iberia Express,15:45,15:47,14,1012,20,SO,10000,Mayormente despejado,914
+Nice,Iberia,15:45,15:47,14,1012,20,SO,10000,Mayormente despejado,914
+Vienna,Iberia,15:50,15:50,14,1012,20,SO,10000,Mayormente despejado,914
+Vienna,American Airlines,15:50,15:50,14,1012,20,SO,10000,Mayormente despejado,914
+Vienna,LAN Airlines,15:50,15:50,14,1012,20,SO,10000,Mayormente despejado,914
+Amsterdam,Iberia Express,15:50,15:50,14,1012,20,SO,10000,Mayormente despejado,914
+Amsterdam,Iberia,15:50,15:50,14,1012,20,SO,10000,Mayormente despejado,914
+Amsterdam,LAN Airlines,15:50,15:50,14,1012,20,SO,10000,Mayormente despejado,914
+Vigo,Iberia,15:50,15:49,14,1012,20,SO,10000,Mayormente despejado,914
+Vigo,American Airlines,15:50,15:49,14,1012,20,SO,10000,Mayormente despejado,914
+Vigo,Avianca,15:50,15:49,14,1012,20,SO,10000,Mayormente despejado,914
+Vigo,British Airways,15:50,15:49,14,1012,20,SO,10000,Mayormente despejado,914
+Vigo,LAN Airlines,15:50,15:49,14,1012,20,SO,10000,Mayormente despejado,914
+Vigo,Qatar Airways,15:50,15:49,14,1012,20,SO,10000,Mayormente despejado,914
+London,Iberia,15:50,15:52,14,1012,20,SO,10000,Mayormente despejado,914
+London,American Airlines,15:50,15:52,14,1012,20,SO,10000,Mayormente despejado,914
+London,British Airways,15:50,15:52,14,1012,20,SO,10000,Mayormente despejado,914
+London,Japan Airlines,15:50,15:52,14,1012,20,SO,10000,Mayormente despejado,914
+London,LAN Airlines,15:50,15:52,14,1012,20,SO,10000,Mayormente despejado,914
+London,Boliviana de Aviacion,15:50,15:52,14,1012,20,SO,10000,Mayormente despejado,914
+Dublin,Iberia Express,15:50,16:05,14,1012,20,SO,10000,Mayormente despejado,914
+Dublin,American Airlines,15:50,16:05,14,1012,20,SO,10000,Mayormente despejado,914
+Dublin,British Airways,15:50,16:05,14,1012,20,SO,10000,Mayormente despejado,914
+Dublin,Iberia,15:50,16:05,14,1012,20,SO,10000,Mayormente despejado,914
+Porto,Iberia,15:50,15:51,14,1012,20,SO,10000,Mayormente despejado,914
+Porto,British Airways,15:50,15:51,14,1012,20,SO,10000,Mayormente despejado,914
+Porto,LAN Airlines,15:50,15:51,14,1012,20,SO,10000,Mayormente despejado,914
+Porto,Qatar Airways,15:50,15:51,14,1012,20,SO,10000,Mayormente despejado,914
+Malaga,Air Nostrum,15:50,15:57,14,1012,20,SO,10000,Mayormente despejado,914
+Malaga,American Airlines,15:50,15:57,14,1012,20,SO,10000,Mayormente despejado,914
+Malaga,Avianca,15:50,15:57,14,1012,20,SO,10000,Mayormente despejado,914
+Malaga,British Airways,15:50,15:57,14,1012,20,SO,10000,Mayormente despejado,914
+Malaga,LAN Airlines,15:50,15:57,14,1012,20,SO,10000,Mayormente despejado,914
+Malaga,Qatar Airways,15:50,15:57,14,1012,20,SO,10000,Mayormente despejado,914
+Malaga,Iberia,15:50,15:57,14,1012,20,SO,10000,Mayormente despejado,914
+Ibiza,Iberia Express,15:55,15:50,14,1012,20,SO,10000,Mayormente despejado,914
+Ibiza,Iberia,15:55,15:50,14,1012,20,SO,10000,Mayormente despejado,914
+San Juan,Iberia,15:55,15:56,14,1012,20,SO,10000,Mayormente despejado,914
+San Juan,American Airlines,15:55,15:56,14,1012,20,SO,10000,Mayormente despejado,914
+San Juan,Finnair,15:55,15:56,14,1012,20,SO,10000,Mayormente despejado,914
+San Juan,British Airways,15:55,15:56,14,1012,20,SO,10000,Mayormente despejado,914
+Berlin,Iberia Express,15:55,17:35,14,1012,20,SO,10000,Mayormente despejado,914
+Berlin,Iberia,15:55,17:35,14,1012,20,SO,10000,Mayormente despejado,914
+Zurich,Iberia,15:55,15:57,14,1012,20,SO,10000,Mayormente despejado,914
+Zurich,American Airlines,15:55,15:57,14,1012,20,SO,10000,Mayormente despejado,914
+Zurich,LAN Airlines,15:55,15:57,14,1012,20,SO,10000,Mayormente despejado,914
+Zurich,Boliviana de Aviacion,15:55,15:57,14,1012,20,SO,10000,Mayormente despejado,914
+Turin,Air Nostrum,16:00,15:58,14,1012,25,SO,10000,Mayormente despejado,914
+Turin,Iberia,16:00,15:58,14,1012,25,SO,10000,Mayormente despejado,914
+Santo Domingo,Air Europa,16:00,16:18,14,1012,25,SO,10000,Mayormente despejado,914
+Santo Domingo,Etihad Airways,16:00,16:18,14,1012,25,SO,10000,Mayormente despejado,914
+Santo Domingo,Turkish Airlines,16:00,16:18,14,1012,25,SO,10000,Mayormente despejado,914
+Rome,Iberia,16:00,16:04,14,1012,25,SO,10000,Mayormente despejado,914
+Rome,American Airlines,16:00,16:04,14,1012,25,SO,10000,Mayormente despejado,914
+Rome,Meridiana,16:00,16:04,14,1012,25,SO,10000,Mayormente despejado,914
+Rome,LAN Airlines,16:00,16:04,14,1012,25,SO,10000,Mayormente despejado,914
+Rome,Boliviana de Aviacion,16:00,16:04,14,1012,25,SO,10000,Mayormente despejado,914
+Alicante,Air Nostrum,16:00,16:05,14,1012,25,SO,10000,Mayormente despejado,914
+Alicante,American Airlines,16:00,16:05,14,1012,25,SO,10000,Mayormente despejado,914
+Alicante,Avianca,16:00,16:05,14,1012,25,SO,10000,Mayormente despejado,914
+Alicante,Qatar Airways,16:00,16:05,14,1012,25,SO,10000,Mayormente despejado,914
+Alicante,Iberia,16:00,16:05,14,1012,25,SO,10000,Mayormente despejado,914
+Seville,Iberia Express,16:00,16:01,14,1012,25,SO,10000,Mayormente despejado,914
+Seville,American Airlines,16:00,16:01,14,1012,25,SO,10000,Mayormente despejado,914
+Seville,Avianca,16:00,16:01,14,1012,25,SO,10000,Mayormente despejado,914
+Seville,British Airways,16:00,16:01,14,1012,25,SO,10000,Mayormente despejado,914
+Seville,Iberia,16:00,16:01,14,1012,25,SO,10000,Mayormente despejado,914
+Seville,LAN Airlines,16:00,16:01,14,1012,25,SO,10000,Mayormente despejado,914
+Seville,Qatar Airways,16:00,16:01,14,1012,25,SO,10000,Mayormente despejado,914
+Santander,Iberia,16:00,16:02,14,1012,25,SO,10000,Mayormente despejado,914
+Santander,American Airlines,16:00,16:02,14,1012,25,SO,10000,Mayormente despejado,914
+Santander,British Airways,16:00,16:02,14,1012,25,SO,10000,Mayormente despejado,914
+Santander,LAN Airlines,16:00,16:02,14,1012,25,SO,10000,Mayormente despejado,914
+Santander,Qatar Airways,16:00,16:02,14,1012,25,SO,10000,Mayormente despejado,914
+Granada,Air Nostrum,16:00,16:08,14,1012,25,SO,10000,Mayormente despejado,914
+Granada,American Airlines,16:00,16:08,14,1012,25,SO,10000,Mayormente despejado,914
+Granada,Qatar Airways,16:00,16:08,14,1012,25,SO,10000,Mayormente despejado,914
+Granada,Iberia,16:00,16:08,14,1012,25,SO,10000,Mayormente despejado,914
+Brussels,Iberia,16:05,16:05,14,1012,25,SO,10000,Mayormente despejado,914
+Brussels,American Airlines,16:05,16:05,14,1012,25,SO,10000,Mayormente despejado,914
+Brussels,Finnair,16:05,16:05,14,1012,25,SO,10000,Mayormente despejado,914
+Brussels,Air Baltic,16:05,16:05,14,1012,25,SO,10000,Mayormente despejado,914
+Brussels,LAN Airlines,16:05,16:05,14,1012,25,SO,10000,Mayormente despejado,914
+Marrakesh,Iberia,16:10,16:01,14,1012,25,SO,10000,Mayormente despejado,914
+Marrakesh,American Airlines,16:10,16:01,14,1012,25,SO,10000,Mayormente despejado,914
+Bologna,Air Nostrum,16:10,16:06,14,1012,25,SO,10000,Mayormente despejado,914
+Bologna,Iberia,16:10,16:06,14,1012,25,SO,10000,Mayormente despejado,914
+Pamplona,Air Nostrum,16:10,16:07,14,1012,25,SO,10000,Mayormente despejado,914
+Pamplona,American Airlines,16:10,16:07,14,1012,25,SO,10000,Mayormente despejado,914
+Pamplona,Avianca,16:10,16:07,14,1012,25,SO,10000,Mayormente despejado,914
+Pamplona,British Airways,16:10,16:07,14,1012,25,SO,10000,Mayormente despejado,914
+Pamplona,Qatar Airways,16:10,16:07,14,1012,25,SO,10000,Mayormente despejado,914
+Pamplona,Iberia,16:10,16:07,14,1012,25,SO,10000,Mayormente despejado,914
+Paris,Iberia,16:10,16:16,14,1012,25,SO,10000,Mayormente despejado,914
+Paris,American Airlines,16:10,16:16,14,1012,25,SO,10000,Mayormente despejado,914
+Paris,Avianca,16:10,16:16,14,1012,25,SO,10000,Mayormente despejado,914
+Paris,LAN Airlines,16:10,16:16,14,1012,25,SO,10000,Mayormente despejado,914
+Paris,Boliviana de Aviacion,16:10,16:16,14,1012,25,SO,10000,Mayormente despejado,914
+Melilla,Iberia,16:10,16:18,14,1012,25,SO,10000,Mayormente despejado,914
+Melilla,Qatar Airways,16:10,16:18,14,1012,25,SO,10000,Mayormente despejado,914
+Valencia,Air Nostrum,16:10,16:18,14,1012,25,SO,10000,Mayormente despejado,914
+Valencia,American Airlines,16:10,16:18,14,1012,25,SO,10000,Mayormente despejado,914
+Valencia,Avianca,16:10,16:18,14,1012,25,SO,10000,Mayormente despejado,914
+Valencia,Hainan Airlines,16:10,16:18,14,1012,25,SO,10000,Mayormente despejado,914
+Valencia,LAN Airlines,16:10,16:18,14,1012,25,SO,10000,Mayormente despejado,914
+Valencia,Qatar Airways,16:10,16:18,14,1012,25,SO,10000,Mayormente despejado,914
+Valencia,Iberia,16:10,16:18,14,1012,25,SO,10000,Mayormente despejado,914
+San Sebastian,Air Nostrum,16:10,16:16,14,1012,25,SO,10000,Mayormente despejado,914
+San Sebastian,American Airlines,16:10,16:16,14,1012,25,SO,10000,Mayormente despejado,914
+San Sebastian,Avianca,16:10,16:16,14,1012,25,SO,10000,Mayormente despejado,914
+San Sebastian,British Airways,16:10,16:16,14,1012,25,SO,10000,Mayormente despejado,914
+San Sebastian,Qatar Airways,16:10,16:16,14,1012,25,SO,10000,Mayormente despejado,914
+San Sebastian,Iberia,16:10,16:16,14,1012,25,SO,10000,Mayormente despejado,914
+Milan,Iberia,16:15,16:11,14,1012,25,SO,10000,Mayormente despejado,914
+Milan,American Airlines,16:15,16:11,14,1012,25,SO,10000,Mayormente despejado,914
+Milan,Meridiana,16:15,16:11,14,1012,25,SO,10000,Mayormente despejado,914
+Milan,LAN Airlines,16:15,16:11,14,1012,25,SO,10000,Mayormente despejado,914
+Milan,Boliviana de Aviacion,16:15,16:11,14,1012,25,SO,10000,Mayormente despejado,914
+Milan,Ryanair,16:20,16:25,14,1012,25,SO,10000,Mayormente despejado,914
+Milan,EasyJet,16:20,16:35,14,1012,25,SO,10000,Mayormente despejado,914
+Venice,Iberia,16:20,16:26,14,1012,25,SO,10000,Mayormente despejado,914
+Venice,American Airlines,16:20,16:26,14,1012,25,SO,10000,Mayormente despejado,914
+Venice,LAN Airlines,16:20,16:26,14,1012,25,SO,10000,Mayormente despejado,914
+Lisbon,TAP Portugal,16:20,16:25,14,1012,25,SO,10000,Mayormente despejado,914
+Lisbon,El Al,16:20,16:25,14,1012,25,SO,10000,Mayormente despejado,914
+Lisbon,Azores Airlines,16:20,16:25,14,1012,25,SO,10000,Mayormente despejado,914
+Milan,EasyJet Europe,16:20,16:35,14,1012,25,SO,10000,Mayormente despejado,914
+Las Palmas,Iberia Express,16:25,16:23,14,1012,25,SO,10000,Mayormente despejado,914
+Las Palmas,Avianca,16:25,16:23,14,1012,25,SO,10000,Mayormente despejado,914
+Las Palmas,British Airways,16:25,16:23,14,1012,25,SO,10000,Mayormente despejado,914
+Las Palmas,Iberia,16:25,16:23,14,1012,25,SO,10000,Mayormente despejado,914
+Las Palmas,LAN Airlines,16:25,16:23,14,1012,25,SO,10000,Mayormente despejado,914
+London,Iberia,16:30,16:25,13,1012,25,SO,10000,Mayormente despejado,914
+London,American Airlines,16:30,16:25,13,1012,25,SO,10000,Mayormente despejado,914
+London,British Airways,16:30,16:25,13,1012,25,SO,10000,Mayormente despejado,914
+London,LAN Airlines,16:30,16:25,13,1012,25,SO,10000,Mayormente despejado,914
+Tenerife,Iberia Express,16:30,16:27,13,1012,25,SO,10000,Mayormente despejado,914
+Tenerife,American Airlines,16:30,16:27,13,1012,25,SO,10000,Mayormente despejado,914
+Tenerife,Avianca,16:30,16:27,13,1012,25,SO,10000,Mayormente despejado,914
+Tenerife,British Airways,16:30,16:27,13,1012,25,SO,10000,Mayormente despejado,914
+Tenerife,Iberia,16:30,16:27,13,1012,25,SO,10000,Mayormente despejado,914
+Tenerife,LAN Airlines,16:30,16:27,13,1012,25,SO,10000,Mayormente despejado,914
+New York,Iberia,16:30,16:33,13,1012,25,SO,10000,Mayormente despejado,914
+New York,American Airlines,16:30,16:33,13,1012,25,SO,10000,Mayormente despejado,914
+New York,Finnair,16:30,16:33,13,1012,25,SO,10000,Mayormente despejado,914
+New York,British Airways,16:30,16:33,13,1012,25,SO,10000,Mayormente despejado,914
+Paris,Ryanair,16:30,16:36,13,1012,25,SO,10000,Mayormente despejado,914
+Barcelona,Iberia,16:30,16:32,13,1012,25,SO,10000,Mayormente despejado,914
+Barcelona,Avianca,16:30,16:32,13,1012,25,SO,10000,Mayormente despejado,914
+Barcelona,LAN Airlines,16:30,16:32,13,1012,25,SO,10000,Mayormente despejado,914
+Barcelona,Boliviana de Aviacion,16:30,16:32,13,1012,25,SO,10000,Mayormente despejado,914
+London,EasyJet,16:35,16:28,13,1012,25,SO,10000,Mayormente despejado,914
+Athens,Aegean Airlines,16:35,17:10,13,1012,25,SO,10000,Mayormente despejado,914
+Athens,TAP Portugal,16:35,17:10,13,1012,25,SO,10000,Mayormente despejado,914
+Lyon,Air Nostrum,16:40,16:38,13,1012,25,SO,10000,Mayormente despejado,914
+Lyon,Iberia,16:40,16:38,13,1012,25,SO,10000,Mayormente despejado,914
+Dusseldorf,Iberia,16:40,16:45,13,1012,25,SO,10000,Mayormente despejado,914
+Dusseldorf,American Airlines,16:40,16:45,13,1012,25,SO,10000,Mayormente despejado,914
+Medellin,Iberia,16:40,16:47,13,1012,25,SO,10000,Mayormente despejado,914
+Medellin,British Airways,16:40,16:47,13,1012,25,SO,10000,Mayormente despejado,914
+Medellin,LAN Airlines,16:40,16:47,13,1012,25,SO,10000,Mayormente despejado,914
+Medellin,El Al,16:40,16:47,13,1012,25,SO,10000,Mayormente despejado,914
+Medellin,Qatar Airways,16:40,16:47,13,1012,25,SO,10000,Mayormente despejado,914
+Porto,White,16:40,16:45,13,1012,25,SO,10000,Mayormente despejado,914
+Porto,TAP Portugal,16:40,16:45,13,1012,25,SO,10000,Mayormente despejado,914
+Munich,Iberia,16:40,16:41,13,1012,25,SO,10000,Mayormente despejado,914
+Munich,American Airlines,16:40,16:41,13,1012,25,SO,10000,Mayormente despejado,914
+Munich,LAN Airlines,16:40,16:41,13,1012,25,SO,10000,Mayormente despejado,914
+Munich,Boliviana de Aviacion,16:40,16:41,13,1012,25,SO,10000,Mayormente despejado,914
+Almeria,Air Nostrum,16:40,16:42,13,1012,25,SO,10000,Mayormente despejado,914
+Almeria,LAN Airlines,16:40,16:42,13,1012,25,SO,10000,Mayormente despejado,914
+Almeria,Qatar Airways,16:40,16:42,13,1012,25,SO,10000,Mayormente despejado,914
+Almeria,Iberia,16:40,16:42,13,1012,25,SO,10000,Mayormente despejado,914
+Edinburgh,EasyJet,16:45,16:56,13,1012,25,SO,10000,Mayormente despejado,914
+Miami,Iberia,16:50,16:48,13,1012,25,SO,10000,Mayormente despejado,914
+Miami,American Airlines,16:50,16:48,13,1012,25,SO,10000,Mayormente despejado,914
+Miami,Finnair,16:50,16:48,13,1012,25,SO,10000,Mayormente despejado,914
+Miami,British Airways,16:50,16:48,13,1012,25,SO,10000,Mayormente despejado,914
+Casablanca,Air Nostrum,16:50,16:48,13,1012,25,SO,10000,Mayormente despejado,914
+Casablanca,American Airlines,16:50,16:48,13,1012,25,SO,10000,Mayormente despejado,914
+Casablanca,Iberia,16:50,16:48,13,1012,25,SO,10000,Mayormente despejado,914
+Marseille,Air Nostrum,16:50,16:46,13,1012,25,SO,10000,Mayormente despejado,914
+Marseille,Iberia,16:50,16:46,13,1012,25,SO,10000,Mayormente despejado,914
+Nantes,Air Nostrum,16:50,16:50,13,1012,25,SO,10000,Mayormente despejado,914
+Nantes,LAN Airlines,16:50,16:50,13,1012,25,SO,10000,Mayormente despejado,914
+Nantes,Iberia,16:50,16:50,13,1012,25,SO,10000,Mayormente despejado,914
+Frankfurt,Lufthansa,16:50,16:59,13,1012,25,SO,10000,Mayormente despejado,914
+Frankfurt,Avianca,16:50,16:59,13,1012,25,SO,10000,Mayormente despejado,914
+Frankfurt,Ethiopian Airlines,16:50,16:59,13,1012,25,SO,10000,Mayormente despejado,914
+Frankfurt,All Nippon Airways,16:50,16:59,13,1012,25,SO,10000,Mayormente despejado,914
+Frankfurt,Austrian Airlines,16:50,16:59,13,1012,25,SO,10000,Mayormente despejado,914
+Frankfurt,South African Airways,16:50,16:59,13,1012,25,SO,10000,Mayormente despejado,914
+Frankfurt,SAS,16:50,16:59,13,1012,25,SO,10000,Mayormente despejado,914
+Frankfurt,Singapore Airlines,16:50,16:59,13,1012,25,SO,10000,Mayormente despejado,914
+Amsterdam,KLM,16:50,16:51,13,1012,25,SO,10000,Mayormente despejado,914
+Amsterdam,GOL Transportes Aeros,16:50,16:51,13,1012,25,SO,10000,Mayormente despejado,914
+Amsterdam,Garuda Indonesia,16:50,16:51,13,1012,25,SO,10000,Mayormente despejado,914
+Amsterdam,Kenya Airways,16:50,16:51,13,1012,25,SO,10000,Mayormente despejado,914
+Amsterdam,Xiamen Airlines,16:50,16:51,13,1012,25,SO,10000,Mayormente despejado,914
+Barcelona,Vueling,16:55,17:00,13,1012,25,SO,10000,Mayormente despejado,914
+Barcelona,Iberia,16:55,17:00,13,1012,25,SO,10000,Mayormente despejado,914
+London,Iberia,17:00,16:50,13,1012,25,SO,10000,Mayormente despejado,1676
+Tel Aviv,Iberia,17:00,16:55,13,1012,25,SO,10000,Mayormente despejado,1676
+Tel Aviv,El Al,17:00,16:55,13,1012,25,SO,10000,Mayormente despejado,1676
+Havana,Iberia,17:00,16:59,13,1012,25,SO,10000,Mayormente despejado,1676
+Havana,British Airways,17:00,16:59,13,1012,25,SO,10000,Mayormente despejado,1676
+Rome,Iberia,17:00,16:56,13,1012,25,SO,10000,Mayormente despejado,1676
+Copenhagen,Norwegian Air International,17:00,17:08,13,1012,25,SO,10000,Mayormente despejado,1676
+Palma de Mallorca,Air Europa,17:00,17:03,13,1012,25,SO,10000,Mayormente despejado,1676
+Palma de Mallorca,Air France,17:00,17:03,13,1012,25,SO,10000,Mayormente despejado,1676
+Palma de Mallorca,Aeromexico,17:00,17:03,13,1012,25,SO,10000,Mayormente despejado,1676
+Palma de Mallorca,Alitalia,17:00,17:03,13,1012,25,SO,10000,Mayormente despejado,1676
+Palma de Mallorca,KLM,17:00,17:03,13,1012,25,SO,10000,Mayormente despejado,1676
+Palma de Mallorca,MEA,17:00,17:03,13,1012,25,SO,10000,Mayormente despejado,1676
+Palma de Mallorca,Saudi Arabian Airlines,17:00,17:03,13,1012,25,SO,10000,Mayormente despejado,1676
+Paris,Air Europa,17:20,17:32,13,1012,25,SO,10000,Mayormente despejado,1676
+Paris,Air France,17:20,17:32,13,1012,25,SO,10000,Mayormente despejado,1676
+Paris,Aeromexico,17:20,17:32,13,1012,25,SO,10000,Mayormente despejado,1676
+Palma de Mallorca,Ryanair,17:20,17:23,13,1012,25,SO,10000,Mayormente despejado,1676
+Bilbao,Iberia,17:25,17:21,13,1012,25,SO,10000,Mayormente despejado,1676
+Bilbao,Avianca,17:25,17:21,13,1012,25,SO,10000,Mayormente despejado,1676
+Bilbao,British Airways,17:25,17:21,13,1012,25,SO,10000,Mayormente despejado,1676
+Bilbao,Air Baltic,17:25,17:21,13,1012,25,SO,10000,Mayormente despejado,1676
+Bilbao,LAN Airlines,17:25,17:21,13,1012,25,SO,10000,Mayormente despejado,1676
+Bilbao,Qatar Airways,17:25,17:21,13,1012,25,SO,10000,Mayormente despejado,1676
+Barcelona,Iberia,17:30,17:34,13,1012,20,SO,10000,Cielo y visibilidad bien,0
+Barcelona,Avianca,17:30,17:34,13,1012,20,SO,10000,Cielo y visibilidad bien,0
+Barcelona,LAN Airlines,17:30,17:34,13,1012,20,SO,10000,Cielo y visibilidad bien,0
+Rome,Alitalia,17:35,17:35,13,1012,20,SO,10000,Cielo y visibilidad bien,0
+Rome,Aerolineas Argentinas,17:35,17:35,13,1012,20,SO,10000,Cielo y visibilidad bien,0
+Rome,Etihad Airways,17:35,17:35,13,1012,20,SO,10000,Cielo y visibilidad bien,0
+Rome,AirSERBIA,17:35,17:35,13,1012,20,SO,10000,Cielo y visibilidad bien,0
+Rome,Korean Air,17:35,17:35,13,1012,20,SO,10000,Cielo y visibilidad bien,0
+Rome,Air Europa,17:35,17:35,13,1012,20,SO,10000,Cielo y visibilidad bien,0
+Brussels,Brussels Airlines,17:40,17:51,13,1012,20,SO,10000,Cielo y visibilidad bien,0
+Badajoz,Air Nostrum,17:45,17:45,13,1012,20,SO,10000,Cielo y visibilidad bien,0
+Badajoz,LAN Airlines,17:45,17:45,13,1012,20,SO,10000,Cielo y visibilidad bien,0
+Badajoz,Qatar Airways,17:45,17:45,13,1012,20,SO,10000,Cielo y visibilidad bien,0
+Badajoz,Iberia,17:45,17:45,13,1012,20,SO,10000,Cielo y visibilidad bien,0
+London,British Airways,17:45,17:55,13,1012,20,SO,10000,Cielo y visibilidad bien,0
+London,American Airlines,17:45,17:55,13,1012,20,SO,10000,Cielo y visibilidad bien,0
+London,Iberia,17:45,17:55,13,1012,20,SO,10000,Cielo y visibilidad bien,0
+London,LAN Airlines,17:45,17:55,13,1012,20,SO,10000,Cielo y visibilidad bien,0
+Rome,Ryanair,17:55,17:53,13,1012,20,SO,10000,Cielo y visibilidad bien,0
+Barcelona,Iberia,18:00,18:13,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+Lisbon,EasyJet,18:05,17:59,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+Lisbon,EasyJet Europe,18:05,17:59,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+Paris,Iberia Express,18:05,18:14,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+Paris,Iberia,18:05,18:14,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+Paris,LAN Airlines,18:05,18:14,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+London,Ryanair,18:05,18:11,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+Istanbul,Turkish Airlines,18:15,18:21,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+Istanbul,Avianca,18:15,18:21,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+Istanbul,Air New Zealand,18:15,18:21,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+Istanbul,Air Europa,18:15,18:21,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+Barcelona,Vueling,18:20,18:31,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+Barcelona,Iberia,18:20,18:31,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+London,Iberia Express,18:25,18:26,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+London,British Airways,18:25,18:26,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+London,Iberia,18:25,18:26,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+London,LAN Airlines,18:25,18:26,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+Tenerife,Air Europa,18:25,18:29,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+Tenerife,Air France,18:25,18:29,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+Tenerife,Aeromexico,18:25,18:29,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+Tenerife,Alitalia,18:25,18:29,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+Tenerife,KLM,18:25,18:29,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+Munich,Lufthansa,18:25,18:44,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+Munich,Austrian Airlines,18:25,18:44,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+Munich,SAS,18:25,18:44,13,1012,24,SO,10000,Cielo y visibilidad bien,0
+Rennes,Iberia Express,18:30,18:25,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Rennes,Iberia,18:30,18:25,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Seville,Wasaya Airways,18:35,18:54,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Seville,Aeromexico,18:35,18:54,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Seville,Air Europa,18:35,18:54,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Casablanca,Royal Air Maroc,18:40,18:50,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Casablanca,Iberia,18:40,18:50,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Milan,Iberia,18:45,18:44,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Milan,American Airlines,18:45,18:44,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Milan,Meridiana,18:45,18:44,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Barcelona,Iberia,18:45,18:50,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+San Sebastian,Air Nostrum,18:45,18:46,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+San Sebastian,American Airlines,18:45,18:46,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+San Sebastian,Avianca,18:45,18:46,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+San Sebastian,Qatar Airways,18:45,18:46,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+San Sebastian,Iberia,18:45,18:46,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Asturias,Wasaya Airways,18:45,19:05,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Asturias,Air Europa,18:45,19:05,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Marrakesh,Ryanair,18:50,19:09,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Lisbon,TAP Portugal,18:50,19:16,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Lisbon,Aegean Airlines,18:50,19:16,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Lisbon,EgyptAir,18:50,19:16,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Lisbon,Azores Airlines,18:50,19:16,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Palma de Mallorca,Air Europa,19:05,19:11,12,1013,24,SO,10000,Mayormente despejado,1676
+Palma de Mallorca,Air France,19:05,19:11,12,1013,24,SO,10000,Mayormente despejado,1676
+Palma de Mallorca,Aeromexico,19:05,19:11,12,1013,24,SO,10000,Mayormente despejado,1676
+Palma de Mallorca,Aerolineas Argentinas,19:05,19:11,12,1013,24,SO,10000,Mayormente despejado,1676
+Palma de Mallorca,Alitalia,19:05,19:11,12,1013,24,SO,10000,Mayormente despejado,1676
+Palma de Mallorca,KLM,19:05,19:11,12,1013,24,SO,10000,Mayormente despejado,1676
+Palma de Mallorca,Turkish Airlines,19:05,19:11,12,1013,24,SO,10000,Mayormente despejado,1676
+Buenos Aires,Aerolineas Argentinas,19:10,18:58,12,1013,24,SO,10000,Mayormente despejado,1676
+Buenos Aires,Etihad Airways,19:10,18:58,12,1013,24,SO,10000,Mayormente despejado,1676
+Buenos Aires,Korean Air,19:10,18:58,12,1013,24,SO,10000,Mayormente despejado,1676
+Buenos Aires,El Al,19:10,18:58,12,1013,24,SO,10000,Mayormente despejado,1676
+Buenos Aires,China Eastern Airlines,19:10,18:58,12,1013,24,SO,10000,Mayormente despejado,1676
+Buenos Aires,Aeroflot,19:10,18:58,12,1013,24,SO,10000,Mayormente despejado,1676
+Buenos Aires,Air Europa,19:10,18:58,12,1013,24,SO,10000,Mayormente despejado,1676
+Brussels,Ryanair,19:20,19:20,12,1013,24,SO,10000,Mayormente despejado,1676
+Ibiza,Air Europa,19:25,20:09,12,1013,24,SO,10000,Mayormente despejado,1676
+Ibiza,Aeromexico,19:25,20:09,12,1013,24,SO,10000,Mayormente despejado,1676
+Ibiza,Alitalia,19:25,20:09,12,1013,24,SO,10000,Mayormente despejado,1676
+Ibiza,KLM,19:25,20:09,12,1013,24,SO,10000,Mayormente despejado,1676
+Paris,Air Europa,19:30,19:28,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Paris,Air France,19:30,19:28,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Palma de Mallorca,Iberia Express,19:35,19:35,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Palma de Mallorca,British Airways,19:35,19:35,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Palma de Mallorca,Iberia,19:35,19:35,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Palma de Mallorca,LAN Airlines,19:35,19:35,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Palma de Mallorca,Qatar Airways,19:35,19:35,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+A Coruna,Iberia,19:40,19:38,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+A Coruna,Avianca,19:40,19:38,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+A Coruna,British Airways,19:40,19:38,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+A Coruna,LAN Airlines,19:40,19:38,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+A Coruna,Qatar Airways,19:40,19:38,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Toulouse,Iberia Express,19:40,19:40,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Toulouse,Iberia,19:40,19:40,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Barcelona,Vueling,19:40,19:41,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Barcelona,Iberia,19:40,19:41,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Lisbon,Iberia,19:40,19:45,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Lisbon,Japan Airlines,19:40,19:45,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Lisbon,LAN Airlines,19:40,19:45,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Lisbon,Qatar Airways,19:40,19:45,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Berlin,Iberia Express,19:40,19:41,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Berlin,Iberia,19:40,19:41,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Berlin,Japan Airlines,19:40,19:41,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Zurich,Swiss,19:40,19:49,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Asturias,Iberia,19:45,19:44,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Asturias,Avianca,19:45,19:44,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Asturias,British Airways,19:45,19:44,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Asturias,LAN Airlines,19:45,19:44,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Asturias,Qatar Airways,19:45,19:44,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Santiago,Iberia Express,19:45,19:44,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Santiago,Avianca,19:45,19:44,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Santiago,British Airways,19:45,19:44,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Santiago,Iberia,19:45,19:44,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Santiago,Japan Airlines,19:45,19:44,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Santiago,LAN Airlines,19:45,19:44,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Santiago,Qatar Airways,19:45,19:44,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Seville,Iberia Express,19:45,19:39,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Seville,Finnair,19:45,19:39,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Seville,British Airways,19:45,19:39,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Seville,Iberia,19:45,19:39,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Seville,Japan Airlines,19:45,19:39,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Seville,LAN Airlines,19:45,19:39,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Porto,Iberia,19:45,19:42,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Porto,British Airways,19:45,19:42,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Porto,Japan Airlines,19:45,19:42,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Porto,Qatar Airways,19:45,19:42,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Bilbao,Iberia,19:45,19:46,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Bilbao,American Airlines,19:45,19:46,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Bilbao,Avianca,19:45,19:46,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Bilbao,British Airways,19:45,19:46,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Bilbao,Air Baltic,19:45,19:46,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Bilbao,Japan Airlines,19:45,19:46,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Bilbao,LAN Airlines,19:45,19:46,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Bilbao,Qatar Airways,19:45,19:46,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Vigo,Iberia,19:45,19:48,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Vigo,Avianca,19:45,19:48,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Vigo,British Airways,19:45,19:48,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Vigo,Japan Airlines,19:45,19:48,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Vigo,LAN Airlines,19:45,19:48,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Vigo,Qatar Airways,19:45,19:48,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Naples,Iberia Express,19:50,19:49,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Naples,Iberia,19:50,19:49,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Milan,Iberia,19:50,19:49,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Milan,Meridiana,19:50,19:49,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Alicante,Air Nostrum,19:50,19:50,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Alicante,American Airlines,19:50,19:50,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Alicante,Qatar Airways,19:50,19:50,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Alicante,Iberia,19:50,19:50,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Amsterdam,Iberia Express,19:50,19:46,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Amsterdam,Iberia,19:50,19:46,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Amsterdam,Japan Airlines,19:50,19:46,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Amsterdam,LAN Airlines,19:50,19:46,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Vienna,Iberia,19:50,19:56,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Valencia,Air Nostrum,19:50,19:54,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Valencia,Avianca,19:50,19:54,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Valencia,British Airways,19:50,19:54,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Valencia,Qatar Airways,19:50,19:54,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Valencia,Iberia,19:50,19:54,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Frankfurt,Air Nostrum,19:55,19:53,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Frankfurt,Iberia,19:55,19:53,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+London,British Airways,19:55,19:59,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+London,American Airlines,19:55,19:59,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+London,Iberia,19:55,19:59,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+London,LAN Airlines,19:55,19:59,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+San Sebastian,Air Nostrum,19:55,20:00,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+San Sebastian,British Airways,19:55,20:00,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+San Sebastian,Qatar Airways,19:55,20:00,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+San Sebastian,Iberia,19:55,20:00,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Dusseldorf,Iberia,19:55,19:58,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Dusseldorf,Japan Airlines,19:55,19:58,12,1013,24,SO,10000,Cielo y visibilidad bien,0
+Munich,Iberia,20:00,19:55,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Munich,Japan Airlines,20:00,19:55,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Barcelona,Iberia,20:00,20:02,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Barcelona,Japan Airlines,20:00,20:02,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Zurich,Iberia,20:00,20:07,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Zurich,Japan Airlines,20:00,20:07,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Zurich,LAN Airlines,20:00,20:07,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Las Palmas,Air Europa,20:00,21:10,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Las Palmas,Air France,20:00,21:10,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Las Palmas,Aeromexico,20:00,21:10,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Las Palmas,Aerolineas Argentinas,20:00,21:10,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Las Palmas,Alitalia,20:00,21:10,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Las Palmas,KLM,20:00,21:10,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Las Palmas,Turkish Airlines,20:00,21:10,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Ibiza,Ryanair,20:00,20:02,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Paris,Iberia,20:00,20:06,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Paris,Air France,20:05,20:22,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Paris,China Southern Airlines,20:05,20:22,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Paris,GOL Transportes Aeros,20:05,20:22,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Paris,Air Mauritius,20:05,20:22,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Paris,Air Europa,20:05,20:22,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Brussels,Iberia,20:10,20:10,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Brussels,Japan Airlines,20:10,20:10,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Brussels,LAN Airlines,20:10,20:10,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Santiago,Ryanair,20:10,20:06,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Mahon,Air Nostrum,20:10,20:12,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Mahon,Iberia,20:10,20:12,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Pamplona,Air Nostrum,20:10,20:12,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Pamplona,Qatar Airways,20:10,20:12,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Pamplona,Iberia,20:10,20:12,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Geneva,Iberia,20:20,20:21,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Geneva,Japan Airlines,20:20,20:21,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Geneva,LAN Airlines,20:20,20:21,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Amsterdam,KLM,20:25,20:30,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Amsterdam,Aerolineas Argentinas,20:25,20:30,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Amsterdam,GOL Transportes Aeros,20:25,20:30,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Amsterdam,Xiamen Airlines,20:25,20:30,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Amsterdam,Air Europa,20:25,20:30,12,1013,22,SO,10000,Cielo y visibilidad bien,0
+Barcelona,Air Europa,20:30,20:24,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Barcelona,Aerolineas Argentinas,20:30,20:24,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Barcelona,Korean Air,20:30,20:24,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Barcelona,Aeroflot,20:30,20:24,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Milan,Alitalia CityLiner,20:30,20:40,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Milan,Alitalia,20:30,20:40,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Luxembourg,Luxair,20:30,20:56,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Almeria,Air Nostrum,20:40,20:32,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Almeria,Qatar Airways,20:40,20:32,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Almeria,Iberia,20:40,20:32,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Granada,Air Nostrum,20:45,20:41,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Granada,American Airlines,20:45,20:41,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Granada,Qatar Airways,20:45,20:41,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Granada,Iberia,20:45,20:41,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Las Palmas,Iberia Express,20:50,20:52,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Las Palmas,American Airlines,20:50,20:52,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Las Palmas,British Airways,20:50,20:52,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Las Palmas,Iberia,20:50,20:52,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Las Palmas,Japan Airlines,20:50,20:52,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Las Palmas,LAN Airlines,20:50,20:52,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Las Palmas,Qatar Airways,20:50,20:52,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Geneva,Swiss,20:50,21:15,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Tenerife,Iberia Express,20:55,20:54,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Tenerife,British Airways,20:55,20:54,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Tenerife,Iberia,20:55,20:54,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Tenerife,Japan Airlines,20:55,20:54,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Tenerife,LAN Airlines,20:55,20:54,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Tenerife,Qatar Airways,20:55,20:54,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Venice,Iberia,20:55,20:50,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Venice,Japan Airlines,20:55,20:50,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Venice,LAN Airlines,20:55,20:50,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Lanzarote,Iberia Express,20:55,20:50,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Lanzarote,Iberia,20:55,20:50,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Budapest,Wizz Air,20:55,21:56,12,1014,24,SO,10000,Cielo y visibilidad bien,0
+Paris,Iberia Express,21:00,21:06,12,1014,27,SO,10000,Mayormente despejado,2286
+Paris,Iberia,21:00,21:06,12,1014,27,SO,10000,Mayormente despejado,2286
+Barcelona,Iberia,21:00,21:01,12,1014,27,SO,10000,Mayormente despejado,2286
+Barcelona,Japan Airlines,21:00,21:01,12,1014,27,SO,10000,Mayormente despejado,2286
+Barcelona,LAN Airlines,21:00,21:01,12,1014,27,SO,10000,Mayormente despejado,2286
+Logrono,Air Nostrum,21:00,21:06,12,1014,27,SO,10000,Mayormente despejado,2286
+Logrono,Iberia,21:00,21:06,12,1014,27,SO,10000,Mayormente despejado,2286
+Belgrade,AirSERBIA,21:00,21:54,12,1014,27,SO,10000,Mayormente despejado,2286
+Belgrade,Etihad Airways,21:00,21:54,12,1014,27,SO,10000,Mayormente despejado,2286
+Belgrade,Air Europa,21:00,21:54,12,1014,27,SO,10000,Mayormente despejado,2286
+London,EasyJet,21:05,21:14,12,1014,27,SO,10000,Mayormente despejado,2286
+Tangier,Air Arabia Maroc,21:05,21:09,12,1014,27,SO,10000,Mayormente despejado,2286
+Lisbon,TAP Express,21:10,21:00,12,1014,27,SO,10000,Mayormente despejado,2286
+Lisbon,Azul Brazilian Airlines,21:10,21:00,12,1014,27,SO,10000,Mayormente despejado,2286
+Lisbon,Air China,21:10,21:00,12,1014,27,SO,10000,Mayormente despejado,2286
+Lisbon,Azores Airlines,21:10,21:00,12,1014,27,SO,10000,Mayormente despejado,2286
+Lisbon,TAP Portugal,21:10,21:00,12,1014,27,SO,10000,Mayormente despejado,2286
+Las Palmas,Ryanair,21:10,21:07,12,1014,27,SO,10000,Mayormente despejado,2286
+Bologna,Air Nostrum,21:15,21:09,12,1014,27,SO,10000,Mayormente despejado,2286
+Bologna,Iberia,21:15,21:09,12,1014,27,SO,10000,Mayormente despejado,2286
+Santander,Iberia,21:15,21:09,12,1014,27,SO,10000,Mayormente despejado,2286
+Santander,Finnair,21:15,21:09,12,1014,27,SO,10000,Mayormente despejado,2286
+Santander,British Airways,21:15,21:09,12,1014,27,SO,10000,Mayormente despejado,2286
+Santander,Qatar Airways,21:15,21:09,12,1014,27,SO,10000,Mayormente despejado,2286
+London,British Airways,21:25,21:14,12,1014,27,SO,10000,Mayormente despejado,2286
+London,American Airlines,21:25,21:14,12,1014,27,SO,10000,Mayormente despejado,2286
+London,Iberia,21:25,21:14,12,1014,27,SO,10000,Mayormente despejado,2286
+Nantes,Air Nostrum,21:25,21:32,12,1014,27,SO,10000,Mayormente despejado,2286
+Nantes,Iberia,21:25,21:32,12,1014,27,SO,10000,Mayormente despejado,2286
+Jerez,Iberia,21:30,21:30,11,1014,22,SO,10000,Mayormente despejado,1829
+Jerez,Finnair,21:30,21:30,11,1014,22,SO,10000,Mayormente despejado,1829
+Jerez,British Airways,21:30,21:30,11,1014,22,SO,10000,Mayormente despejado,1829
+Jerez,Qatar Airways,21:30,21:30,11,1014,22,SO,10000,Mayormente despejado,1829
+Marseille,Air Nostrum,21:30,21:20,11,1014,22,SO,10000,Mayormente despejado,1829
+Marseille,Iberia,21:30,21:20,11,1014,22,SO,10000,Mayormente despejado,1829
+Addis Ababa,Ethiopian Airlines,21:30,21:33,11,1014,22,SO,10000,Mayormente despejado,1829
+Addis Ababa,Air Europa,21:30,21:33,11,1014,22,SO,10000,Mayormente despejado,1829
+Santa Cruz,Boliviana de Aviacion,21:30,21:35,11,1014,22,SO,10000,Mayormente despejado,1829
+Santa Cruz,Iberia,21:30,21:35,11,1014,22,SO,10000,Mayormente despejado,1829
+Lyon,Air Nostrum,21:35,21:32,11,1014,22,SO,10000,Mayormente despejado,1829
+Lyon,Iberia,21:35,21:32,11,1014,22,SO,10000,Mayormente despejado,1829
+Lanzarote,Ryanair,21:35,21:29,11,1014,22,SO,10000,Mayormente despejado,1829
+Rome,Iberia,21:35,21:35,11,1014,22,SO,10000,Mayormente despejado,1829
+Rome,Japan Airlines,21:35,21:35,11,1014,22,SO,10000,Mayormente despejado,1829
+Rome,LAN Airlines,21:35,21:35,11,1014,22,SO,10000,Mayormente despejado,1829
+Dubai,Emirates,21:40,21:36,11,1014,22,SO,10000,Mayormente despejado,1829
+Dubai,Malaysia Airlines,21:40,21:36,11,1014,22,SO,10000,Mayormente despejado,1829
+Dubai,Qantas,21:40,21:36,11,1014,22,SO,10000,Mayormente despejado,1829
+Nice,Air Nostrum,21:40,21:42,11,1014,22,SO,10000,Mayormente despejado,1829
+Nice,Iberia,21:40,21:42,11,1014,22,SO,10000,Mayormente despejado,1829
+Barcelona,Iberia,21:45,21:45,11,1014,22,SO,10000,Mayormente despejado,1829
+Barcelona,LAN Airlines,21:45,21:45,11,1014,22,SO,10000,Mayormente despejado,1829
+Palma de Mallorca,Air Europa,21:45,21:42,11,1014,22,SO,10000,Mayormente despejado,1829
+Palma de Mallorca,Air France,21:45,21:42,11,1014,22,SO,10000,Mayormente despejado,1829
+Palma de Mallorca,Aeromexico,21:45,21:42,11,1014,22,SO,10000,Mayormente despejado,1829
+Palma de Mallorca,Aerolineas Argentinas,21:45,21:42,11,1014,22,SO,10000,Mayormente despejado,1829
+Palma de Mallorca,Alitalia,21:45,21:42,11,1014,22,SO,10000,Mayormente despejado,1829
+Palma de Mallorca,AirSERBIA,21:45,21:42,11,1014,22,SO,10000,Mayormente despejado,1829
+Palma de Mallorca,KLM,21:45,21:42,11,1014,22,SO,10000,Mayormente despejado,1829
+Asturias,Iberia,22:00,21:57,11,1014,20,SO,10000,Mayormente despejado,2286
+Asturias,American Airlines,22:00,21:57,11,1014,20,SO,10000,Mayormente despejado,2286
+Asturias,Finnair,22:00,21:57,11,1014,20,SO,10000,Mayormente despejado,2286
+Asturias,British Airways,22:00,21:57,11,1014,20,SO,10000,Mayormente despejado,2286
+Asturias,Air Baltic,22:00,21:57,11,1014,20,SO,10000,Mayormente despejado,2286
+Asturias,Japan Airlines,22:00,21:57,11,1014,20,SO,10000,Mayormente despejado,2286
+Asturias,LAN Airlines,22:00,21:57,11,1014,20,SO,10000,Mayormente despejado,2286
+Asturias,Qatar Airways,22:00,21:57,11,1014,20,SO,10000,Mayormente despejado,2286
+Palma de Mallorca,Iberia Express,22:10,22:06,11,1014,20,SO,10000,Mayormente despejado,2286
+Palma de Mallorca,Iberia,22:10,22:06,11,1014,20,SO,10000,Mayormente despejado,2286
+Palma de Mallorca,Qatar Airways,22:10,22:06,11,1014,20,SO,10000,Mayormente despejado,2286
+Bucharest,Wizz Air,22:10,22:48,11,1014,20,SO,10000,Mayormente despejado,2286
+A Coruna,Iberia,22:15,22:11,11,1014,20,SO,10000,Mayormente despejado,2286
+A Coruna,American Airlines,22:15,22:11,11,1014,20,SO,10000,Mayormente despejado,2286
+A Coruna,Finnair,22:15,22:11,11,1014,20,SO,10000,Mayormente despejado,2286
+A Coruna,British Airways,22:15,22:11,11,1014,20,SO,10000,Mayormente despejado,2286
+A Coruna,Air Baltic,22:15,22:11,11,1014,20,SO,10000,Mayormente despejado,2286
+A Coruna,Japan Airlines,22:15,22:11,11,1014,20,SO,10000,Mayormente despejado,2286
+A Coruna,LAN Airlines,22:15,22:11,11,1014,20,SO,10000,Mayormente despejado,2286
+A Coruna,Qatar Airways,22:15,22:11,11,1014,20,SO,10000,Mayormente despejado,2286
+Pamplona,Air Nostrum,22:15,22:09,11,1014,20,SO,10000,Mayormente despejado,2286
+Pamplona,Finnair,22:15,22:09,11,1014,20,SO,10000,Mayormente despejado,2286
+Pamplona,Qatar Airways,22:15,22:09,11,1014,20,SO,10000,Mayormente despejado,2286
+Pamplona,Iberia,22:15,22:09,11,1014,20,SO,10000,Mayormente despejado,2286
+Vigo,Iberia,22:15,22:14,11,1014,20,SO,10000,Mayormente despejado,2286
+Vigo,Finnair,22:15,22:14,11,1014,20,SO,10000,Mayormente despejado,2286
+Vigo,British Airways,22:15,22:14,11,1014,20,SO,10000,Mayormente despejado,2286
+Vigo,LAN Airlines,22:15,22:14,11,1014,20,SO,10000,Mayormente despejado,2286
+Vigo,Qatar Airways,22:15,22:14,11,1014,20,SO,10000,Mayormente despejado,2286
+Bilbao,Iberia,22:15,22:27,11,1014,20,SO,10000,Mayormente despejado,2286
+Bilbao,Finnair,22:15,22:27,11,1014,20,SO,10000,Mayormente despejado,2286
+Bilbao,LAN Airlines,22:15,22:27,11,1014,20,SO,10000,Mayormente despejado,2286
+Bilbao,Qatar Airways,22:15,22:27,11,1014,20,SO,10000,Mayormente despejado,2286
+Sao Paulo,TAM Linhas Aereas,22:15,22:37,11,1014,20,SO,10000,Mayormente despejado,2286
+Sao Paulo,Finnair,22:15,22:37,11,1014,20,SO,10000,Mayormente despejado,2286
+Sao Paulo,Air China,22:15,22:37,11,1014,20,SO,10000,Mayormente despejado,2286
+Sao Paulo,Iberia,22:15,22:37,11,1014,20,SO,10000,Mayormente despejado,2286
+Sao Paulo,LAN Airlines,22:15,22:37,11,1014,20,SO,10000,Mayormente despejado,2286
+Doha,Qatar Airways,22:20,22:32,11,1014,20,SO,10000,Mayormente despejado,2286
+Doha,Iberia,22:20,22:32,11,1014,20,SO,10000,Mayormente despejado,2286
+Toulouse,Air Nostrum,22:25,22:44,11,1014,20,SO,10000,Mayormente despejado,2286
+Toulouse,Iberia,22:25,22:44,11,1014,20,SO,10000,Mayormente despejado,2286
+Santiago,Iberia Express,22:30,22:28,11,1014,20,SO,10000,Mayormente despejado,1981
+Santiago,Iberia,22:30,22:28,11,1014,20,SO,10000,Mayormente despejado,1981
+Lisbon,Iberia,22:50,22:47,11,1014,20,SO,10000,Mayormente despejado,1981
+Lisbon,American Airlines,22:50,22:47,11,1014,20,SO,10000,Mayormente despejado,1981
+Lisbon,Finnair,22:50,22:47,11,1014,20,SO,10000,Mayormente despejado,1981
+Lisbon,Qatar Airways,22:50,22:47,11,1014,20,SO,10000,Mayormente despejado,1981
+Tel Aviv,El Al,22:55,23:04,11,1014,20,SO,10000,Mayormente despejado,1981
+Tel Aviv,Aerolineas Argentinas,22:55,23:04,11,1014,20,SO,10000,Mayormente despejado,1981
+Tel Aviv,Iberia,22:55,23:04,11,1014,20,SO,10000,Mayormente despejado,1981
+Valencia,Air Nostrum,23:05,23:08,11,1015,20,SO,10000,Parcialmente nublado,1676
+Valencia,Finnair,23:05,23:08,11,1015,20,SO,10000,Parcialmente nublado,1676
+Valencia,Qatar Airways,23:05,23:08,11,1015,20,SO,10000,Parcialmente nublado,1676
+Valencia,Iberia,23:05,23:08,11,1015,20,SO,10000,Parcialmente nublado,1676
+Sao Paulo,Air Europa,23:45,00:32,11,1015,20,SO,10000,Parcialmente nublado,1676
+Sao Paulo,Etihad Airways,23:45,00:32,11,1015,20,SO,10000,Parcialmente nublado,1676
+Asuncion,Air Europa,23:45,00:23,11,1015,20,SO,10000,Parcialmente nublado,1676
+Asuncion,Aerolineas Argentinas,23:45,00:23,11,1015,20,SO,10000,Parcialmente nublado,1676
+Asuncion,Etihad Airways,23:45,00:23,11,1015,20,SO,10000,Parcialmente nublado,1676
+Montevideo,Air Europa,23:50,01:04,11,1015,20,SO,10000,Parcialmente nublado,1676
+Sao Paulo,Iberia,23:55,00:14,11,1015,20,SO,10000,Parcialmente nublado,1676
+Sao Paulo,British Airways,23:55,00:14,11,1015,20,SO,10000,Parcialmente nublado,1676
+Sao Paulo,LAN Airlines,23:55,00:14,11,1015,20,SO,10000,Parcialmente nublado,1676
+Sao Paulo,El Al,23:55,00:14,11,1015,20,SO,10000,Parcialmente nublado,1676
+Montevideo,Iberia,23:55,00:02,11,1015,20,SO,10000,Parcialmente nublado,1676
+Montevideo,British Airways,23:55,00:02,11,1015,20,SO,10000,Parcialmente nublado,1676
+Montevideo,Qatar Airways,23:55,00:02,11,1015,20,SO,10000,Parcialmente nublado,1676
+Mexico City,Iberia,23:55,23:55,11,1015,20,SO,10000,Parcialmente nublado,1676
+Mexico City,Finnair,23:55,23:55,11,1015,20,SO,10000,Parcialmente nublado,1676
+Mexico City,British Airways,23:55,23:55,11,1015,20,SO,10000,Parcialmente nublado,1676
+Mexico City,El Al,23:55,23:55,11,1015,20,SO,10000,Parcialmente nublado,1676
+Mexico City,Qatar Airways,23:55,23:55,11,1015,20,SO,10000,Parcialmente nublado,1676
+Buenos Aires,Iberia,23:55,00:00,11,1015,20,SO,10000,Parcialmente nublado,1676
+Buenos Aires,British Airways,23:55,00:00,11,1015,20,SO,10000,Parcialmente nublado,1676
+Buenos Aires,Air Europa,23:55,00:31,11,1015,20,SO,10000,Parcialmente nublado,1676
+Buenos Aires,Aerolineas Argentinas,23:55,00:31,11,1015,20,SO,10000,Parcialmente nublado,1676
+Buenos Aires,Etihad Airways,23:55,00:31,11,1015,20,SO,10000,Parcialmente nublado,1676
+Santiago,LAN Airlines,23:55,23:56,11,1015,20,SO,10000,Parcialmente nublado,1676
+Santiago,Finnair,23:55,23:56,11,1015,20,SO,10000,Parcialmente nublado,1676
+Santiago,Iberia,23:55,23:56,11,1015,20,SO,10000,Parcialmente nublado,1676
+Santiago,Iberia,23:55,23:56,11,1015,20,SO,10000,Parcialmente nublado,1676
+Santiago,British Airways,23:55,23:56,11,1015,20,SO,10000,Parcialmente nublado,1676
+Santiago,LAN Airlines,23:55,23:56,11,1015,20,SO,10000,Parcialmente nublado,1676
+Santiago,El Al,23:55,23:56,11,1015,20,SO,10000,Parcialmente nublado,1676
+Lima,Air Europa,23:55,23:58,11,1015,20,SO,10000,Parcialmente nublado,1676
+Lima,Etihad Airways,23:55,23:58,11,1015,20,SO,10000,Parcialmente nublado,1676
