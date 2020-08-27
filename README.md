@@ -32,16 +32,16 @@ During the development of this project the following lenguages and tools were us
 
 Training section:
 
-<img alt="Training section" width="350" src="/img/Training1.png"/>
+<img alt="Training section" width="650" src="/img/Training1.png"/>
 
 Training the model:
 
-<img alt="Training the model" width="350" src="/img/Training2.png"/>
+<img alt="Training the model" width="650" src="/img/Training2.png"/>
 
 Clasification section:
 
-<img alt="Clasification section" width="350" src="/img/Clasification1.png"/>
+<img alt="Clasification section" width="650" src="/img/Clasification1.png"/>
 
 Final clasification:
 
-<img alt="Final clasification" width="350" src="/img/Clasification2.png"/>
+<img alt="Final clasification" width="650" src="/img/Clasification2.png"/>
