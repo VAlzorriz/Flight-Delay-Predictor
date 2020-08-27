@@ -20,24 +20,28 @@ After knowing the best algorithms to implement I started with the Python code. I
 
 During the development of this project the following lenguages and tools were used:
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> Python, 
-<img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"/> Pandas, 
-<img align="left" alt="Scikit Learn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"/> Scikit Learn, 
-<img align="left" alt="Qt" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"/> Qt
-<img align="left" alt="Pentaho" width="26px" src="https://logodix.com/logo/1960244.png"/> Pentaho, 
-<img align="left" alt="Open Refine" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenRefine_New_Logo.png"/> Open Refine, 
-<img align="left" alt="Rapid Miner" width="26px" src="https://avatars0.githubusercontent.com/u/4490278?s=280&v=4"/> Rapid Miner
+<img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> Python, 
+<img alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"/> Pandas, 
+<img alt="Scikit Learn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"/> Scikit Learn, 
+<img alt="Qt" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"/> Qt
+<img alt="Pentaho" width="26px" src="https://logodix.com/logo/1960244.png"/> Pentaho, 
+<img alt="Open Refine" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenRefine_New_Logo.png"/> Open Refine, 
+<img alt="Rapid Miner" width="26px" src="https://avatars0.githubusercontent.com/u/4490278?s=280&v=4"/> Rapid Miner
 
 ## Images of the proyect:
 
 Training section:
+
 <img align="left" alt="Training section" width="350" src="/img/Training1.png"/>
 
 Training the model:
+
 <img align="left" alt="Training the model" width="350" src="/img/Training2.png"/>
 
 Clasification section:
+
 <img align="left" alt="Clasification section" width="350" src="/img/Clasification1.png"/>
 
 Final clasification:
+
 <img align="left" alt="Final clasification" width="350" src="/img/Clasification2.png"/>
