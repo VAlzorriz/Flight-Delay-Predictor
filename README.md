@@ -8,9 +8,11 @@ This Python application allow you to train a model to predict if a flight would 
 
 The application also allows you to use the previusly created model to predict if a flight would be delayed or not based on an unlabeled dataset containing the same information. The application also has some example datasets "VuelosYTiempo.csv" and "VuelosYTiempoUnlabeled.csv" which contain the flight and wheather data from the Adolfo Suarez Madrid Barajas airpoty, in Spain. These datasets have been used to test the application, and mention that the labeled and unlabeled datasets contain compleatly different sets of data.
 
-## Development:
+## Team:
 
 This project was developed by my self during the first semester of my year studing in the Politecnico di Milano. 
+
+## Development:
 
 First, I use a Pentaho workflow to extract the data and create the example dataset using web scrapping. Then after having the dataset I cleaned the data using Open Refine. Once the dataset was ready, I tested different training alforithm in Rapid Miner with the dataset to figure out what were the algotithm that worked the best with this data and have the best results. At the end, I found out that the best algorithm for this data was KNearest Neighbor with K = 4, with an accuracy of 89%. The other two best were, Gradient Boosted Tree, with an accuracy of 75%, and Naive Bayes, with an accuracy of 65%.
 
